@@ -1,0 +1,22 @@
+# specify main slider items here
+
+- text: >
+    <h3 class="font-weight-light"><span class="text-warning">BO</span>logna Federated Conference on <span class="text-warning">P</span>rogramming <span class="text-warning">L</span>anguages <span class="text-warning">2020</span></h3>
+    <h4>28th International Workshop on Functional and Logic Programming</h4>
+    <p class="lead">Monday 7th of September in Bologna, Italy</p>
+  url: /assets/images/slide02.jpg
+- text: >
+    <h3 class="font-weight-light"><span class="text-warning">BO</span>logna Federated Conference on <span class="text-warning">P</span>rogramming <span class="text-warning">L</span>anguages <span class="text-warning">2020</span></h3>
+    <h4>30th International Symposium on Logic-Based Program Synthesis and Transformation</h4>
+    <p class="lead">From the 7th to the 9th of September in Bologna, Italy</p>
+  url: /assets/images/slide04.jpg
+- text: >
+    <h3 class="font-weight-light"><span class="text-warning">BO</span>logna Federated Conference on <span class="text-warning">P</span>rogramming <span class="text-warning">L</span>anguages <span class="text-warning">2020</span></h3>
+    <h4>3rd International Conference on Microservices</h4>
+    <p class="lead">From the 8th to the 10th of September in Bologna, Italy</p>
+  url: /assets/images/slide06.jpg
+- text: >
+    <h3 class="font-weight-light"><span class="text-warning">BO</span>logna Federated Conference on <span class="text-warning">P</span>rogramming <span class="text-warning">L</span>anguages <span class="text-warning">2020</span></h3>
+    <h4>22nd International Symposium on Principles and Practice of Declarative Programming</h4>
+    <p class="lead">From the 8th to the 10th of September in Bologna, Italy</p>
+  url: /assets/images/slide07.jpg

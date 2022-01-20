@@ -1,0 +1,14 @@
+# specify main menu items here
+
+- text: Home
+  url: /
+- text: Events
+  url: /events
+- text: Attending
+  url: /attending
+- text: Sponsoring
+  url: /sponsoring
+- text: Organization
+  url: /organization
+- text: Contact
+  url: contact
