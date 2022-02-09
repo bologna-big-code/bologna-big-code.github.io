@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Website template
+title: Bologna Big Code Lab 2022
 email: stefanopio.zingaro@unibo.it
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a template for SPACES team websites. Change this configuration file accordingly.
+  Il primo appuntamento pubblico realizzato nell’ambito del progetto Big Code Lab, si terrà il 16 Marzo e sarà una giornata dedicata ai codici, all’Open Source e ai nuovi archivi digitali. 
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -28,7 +28,7 @@ permalink: /blog/:title
 section: true
 
 # set to 'true' to enable Netlify CMS (/admin) in production builds
-netlifycms: true
+netlifycms: false
 
 # set to 'true' to enable Google Analytics tracking code in production builds
 analytics: true

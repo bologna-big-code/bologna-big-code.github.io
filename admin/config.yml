@@ -3,7 +3,7 @@
 
 backend:
   name: github
-  repo: szingaro/jekyll-netlify-boilerplate # Path to your GitHub repository
+  repo: thezingaro/jekyll-netlify-boilerplate # Path to your GitHub repository
   branch: master
   
 media_folder: "assets/images/uploads" # Folder where user uploaded files should go
