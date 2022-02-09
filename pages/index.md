@@ -1,25 +1,35 @@
 ---
 layout: home
-title: Bologna Federated Conference on Programming Languages
+title: Bologna Big Code Lab Event
 permalink: /
 section: home
 
 ---
 
-Due to the ongoing COVID-19 situation, **BOPL 2020 will be held online**. 
-Please, refer to the [Attending page](attending.html) for instructions concerning _how to join the sessions_ of the conference and about _the interaction etiquette_ for the live meetings.
-
-The Bologna Federated Conference on Programming Languages brings together four top level international conferences related to programming languages and software architectures.
-
-<div class="list-group list-group-flush">
-  <a href="http://helm.cs.unibo.it/wflp2020/" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1">28th International Workshop on Functional and Logic Programming</a>
-  <a href="https://nms.kcl.ac.uk/maribel.fernandez/LOPSTR2020/" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1">30th International Symposium on Logic-Based Program Synthesis and Transformation</a>
-  <a href="https://www.conf-micro.services/2020/" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1" tabindex="-1" aria-disabled="true">3rd International Conference on Microservices 2020</a>
-  <a href="http://www.cse.chalmers.se/~abela/ppdp20/" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1">22nd International Symposium on Principles and Practice of Declarative Programming</a>
-</div>
+L’ENEA e il Dipartimento di Informatica dell’Università di Bologna, in collaborazione con Software Heritage e con il sostegno dell’International Foundation Big Data and Artificial Intelligence for Human Development (iFAB), hanno promosso il progetto “Bologna Big Code Lab” che si propone da un lato di esplorare nuovi metodi per lo sviluppo automatico e sicuro dei codici e dall’altro di creare occasioni di formazione e divulgazione per riflettere su temi fondamentali legati allo sviluppo delle nuove tecnologie digitali che stanno rapidamente trasformando la nostra società.  
+ 
+Il laboratorio Big Code trae spunto dalla presenza, presso il Centro Ricerche ENEA di Bologna, del primo mirror istituzionale europeo di Software Heritage (SH), l’archivio universale del codice sorgente (https://www.softwareheritage.org/), iniziativa ambiziosa e di grande respiro promossa da Inria (l’istituto nazionale francese per la ricerca in informatica) in cooperazione con l’Unesco. L’obiettivo di SH è raccogliere, conservare e rendere accessibile il software pubblicamente disponibile al mondo: come la Biblioteca di Alessandria nacque per preservare il sapere del mondo antico, questa moderna biblioteca digitale raccoglie e conserva un patrimonio espressione dell’ingegno, dell’intelligenza e della cultura dell’umanità.
 
 <div class="py-4 h3">
-    Sponsors
+    Agenda
 </div>
 
-{% include page-sidebar.html %}    
+Il primo appuntamento pubblico realizzato nell’ambito del progetto Big Code Lab, si terrà il 16 Marzo e sarà una giornata dedicata ai codici, all’Open Source e ai nuovi archivi digitali. L’evento avrà un taglio multidisciplinare e un duplice obiettivo, formativo e divulgativo:
+
+{% include table-event.html %}
+ 
+Sarà lanciato un sondaggio, rivolto soprattutto agli studenti che, guidati da semplici schede, risponderanno alla domanda:
+“Quale codice salveresti e perché?”
+ 
+In occasione del dibattito pubblico sarà comunicato l’esito del “sondaggio” e saranno menzionati/premiati gli autori delle tre motivazioni più centrate/originali/curiose.
+
+<div class="py-4 h3">
+    Relatori
+</div>
+
+<div class="list-group list-group-flush">
+  <a href="#" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1">Liesbeth De Mol - permanent researcher at CNRSLiesbeth De Mol is a researcher of the French National Research Foundation (CNRS) based in Lille. She studied art history, archaeology and philosophy in Gent and obtained her PhD degree in philosophy in 2007. Her work is driven by the conviction that we are strongly in need of a deeper and independent reflection on computing and programming. In her own work, this is done by developing historical, epistemological and foundational questions that challenge common ways of thinking. She has worked on the history and philosophy of computability; the reciprocal histories between mathematics, computing and engineering as well as the historical and epistemological connections, or lack thereof, between logic and computer science. She got into programming during her PhD research on a specific class of formal devices known as tag systems and which required, at a certain point, a computer-assisted approach. She is an advocate of history and philosophy of computing which does not shy away from technical expertise and practice.She has published in a variety of venues which reflects her a-disciplinary stance. She is also the founding president of the DHST/DLMPST commission for the history and philosophy of computing and, currently, also the PI for the ANR research project PROGRAMme on the history and philosophy of computer programs.</a>
+  <a href="#" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1">Roberto Di Cosmo - Professore ordinario di Informatica e direttore di Software Heritage. Diplomato presso la Scuola Normale Superiore di Pisa, ha conseguito un dottorato di ricerca presso l'Università di Pisa, prima di diventare professore di ruolo all'École Normale Supérieure di Parigi, poi professore ordinario all'università di Parigi Diderot. Autore del best seller "Le Hold up Planétaire" sui monopoli informatici nel 1998, è noto per il suo supporto nel movimento del Software Liberto e Open Source. È stato il primo presidente del gruppo tematico Open Source all'interno del cluster di innovazione Systematic. Nel 2010 ha creato IRILL, iniziativa di ricerca e innovazione sul software libero. È membro del Board of Trustees dell'IMDEA Software Institute. È il fondatore e direttore di Software Heritage, infrastruttura mondiale la cui missione è di riunire il codice sorgente di tutto il software esistente.</a>
+  <a href="#" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1" tabindex="-1" aria-disabled="true">Simone Martini - Professore ordinario presso il Dipartimento di Informatica - Scienza e Ingegneria di UNIBO. Laureato in Scienze dell'Informazione e Dottore di Ricerca in Informatica all'Università di Pisa. Prima di spostarsi a Bologna nel 2002, è stato ricercatore e professore associato a Pisa e ordinario di Informatica a Udine. È stato Direttore del Dipartimento di Informatica-Scienza e Ingegneria da maggio 2015 a maggio 2018. Ha trascorso periodi come visiting scientist presso il Systems Research Center della Digital Equipment Corporation, Palo Alto; alla Stanford University; all'École normale supérieure, Paris; all'Université Paris 13; alla University of California at Santa Cruz, al Collegium-Institute d'Études Avancées de Lyon (Fellow 2018-2019). È membro del Consiglio della Commission on History and Philosophy of Computing della International Union for History and Philosophy of Science, 2017-2021.I suoi interessi di ricerca riguardano i fondamenti logico matematici dei linguaggi di programmazione, e la storia e la filosofia dell'informatica.</a>
+  <a href="#" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1" tabindex="-1" aria-disabled="true">Stefano Allegrezza - Professore associato presso il Dipartimento di Beni Culturali UNIBO. Settore scientifico disciplinare: archivistica, bibliografia e biblioteconomia. Partecipa al Centro di Ricerca Industriale “Tecnologie dell’Informazione e della comunicazione – ICT” dell’Università degli Studi di Bologna, aderendo ai Clust-ER “Industrie culturali e creative” e “Innovazione nei servizi”. E’ membro del Consiglio del Centro Interdipardimentale di ricerca “Alma Mater Research Institute for Human-Centered Artificial Intelligence (Alma AI)” dell’Università degli Studi di Bologna. È responsabile scientifico del Centro di ricerca internazionale sugli Archivi digitali presso l'Università degli Studi di Bologna. E’ membro del collegio docenti del Dottorato di ricerca in “Umanesimo e tecnologie” presso l’Università degli Studi di Macerata. E' membro del Comitato scientifico della rivista internazionale “Atlanti: review for modern archival theory and practice”, edita dall’ International Institute for Archival Science of Trieste and Maribor, della rivista “Archivi” e della rivista “JLIS - Italian Journal of Library, Archives and Information Science”.</a>
+</div>
