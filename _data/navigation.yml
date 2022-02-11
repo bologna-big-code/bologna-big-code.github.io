@@ -1,14 +1,8 @@
 # specify main menu items here
 
-# - text: Home
-#   url: /
-# - text: Agenda
-#   url: /events
-# - text: Attending
-#   url: /attending
-# - text: Sponsoring
-#   url: /sponsoring
-# - text: Organization
-#   url: /organization
-# - text: Contact
-#   url: contact
+- text: Agenda
+  url: /#agenda
+- text: Relatori
+  url: /#relatori
+- text: Contatti
+  url: /#contatti

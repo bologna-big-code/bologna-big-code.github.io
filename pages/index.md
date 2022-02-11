@@ -10,7 +10,7 @@ L’ENEA e il Dipartimento di Informatica dell’Università di Bologna, in coll
  
 Il laboratorio Big Code trae spunto dalla presenza, presso il Centro Ricerche ENEA di Bologna, del primo mirror istituzionale europeo di Software Heritage (SH), l’archivio universale del codice sorgente (https://www.softwareheritage.org/), iniziativa ambiziosa e di grande respiro promossa da Inria (l’istituto nazionale francese per la ricerca in informatica) in cooperazione con l’Unesco. L’obiettivo di SH è raccogliere, conservare e rendere accessibile il software pubblicamente disponibile al mondo: come la Biblioteca di Alessandria nacque per preservare il sapere del mondo antico, questa moderna biblioteca digitale raccoglie e conserva un patrimonio espressione dell’ingegno, dell’intelligenza e della cultura dell’umanità.
 
-<div class="py-4 h3">
+<div class="py-4 h3" id="agenda">
     Agenda
 </div>
 
@@ -23,7 +23,7 @@ Sarà lanciato un sondaggio, rivolto soprattutto agli studenti che, guidati da s
  
 In occasione del dibattito pubblico sarà comunicato l’esito del “sondaggio” e saranno menzionati/premiati gli autori delle tre motivazioni più centrate/originali/curiose.
 
-<div class="py-4 h3">
+<div class="py-4 h3" id="relatori">
     Relatori
 </div>
 
@@ -53,8 +53,8 @@ In occasione del dibattito pubblico sarà comunicato l’esito del “sondaggio�
   <a href="#" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1" tabindex="-1" aria-disabled="true">Stefano Allegrezza - </a>
 </div> -->
 
-<div class="py-4 h2">
-    Contact
+<div class="py-4 h2" id="contatti">
+    Contatti
 </div>
 
 By submitting the form contained in this page, you consent to let the organisation collect and store the provided data. 

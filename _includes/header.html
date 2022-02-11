@@ -1,35 +1,36 @@
-<header class="bg-white">
+<header class="bg-white container-fluid p-4">
 
-    <nav class="navbar navbar-expand-md navbar-light px-5 py-3">
+    <div class="container">
+        <nav class="navbar fixed-top navbar-expand-md navbar-light">
 
-        <a class="navbar-brand d-flex w-100 mb-0 mr-auto h1 font-weight-light" href="{{ " / " | relative_url }}">
-            <img src="assets/images/logo.png" width="128" height="128" class="d-inline-block align-baseline" alt="" loading="lazy">
-            <!-- &nbsp;{{ site.title | escape }} -->
-        </a>
+            <a class="navbar-brand d-flex w-100 mb-0 mr-auto ml-auto h1 font-weight-light" href="{{ relative_url }}">
+                <img src="assets/images/logo.png" width="128" height="128" class="d-inline-block align-baseline" alt="" loading="lazy">
+            </a>
 
-        <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
 
-        <div class="collapse navbar-collapse w-100 mt-md-3 text-right" id="navbarSupportedContent">
-            {% include navigation.html navigation=site.data.navigation %}
-        </div> -->
+            <div class="collapse navbar-collapse w-100 mt-md-3 text-right" id="navbarSupportedContent">
+                {% include navigation.html navigation=site.data.navigation %}
+            </div>
 
-    </nav>
+        </nav>
+    </div>
 
-    <!-- <div id="home-carousel" class="carousel slide vh-50 p-2 d-none d-md-block " data-ride="carousel">
+    <div id="home-carousel" class="carousel slide vh-50 p-2 d-none d-md-block " data-ride="carousel">
         <div class="carousel-inner">
             {% for item in site.data.slider %}
             <div class="carousel-item {% if item.url contains 6 %}active{% endif %}">
                 <img class="rounded mx-auto d-block img-fluid" src="{{ item.url }}" style="max-height: 450px;">
 
-                <div class="carousel-caption rounded font-weight-light text-left pl-4" style="width: auto; background-color: #a83c39; opacity: 93%;">
+                <!-- <div class="carousel-caption rounded font-weight-light text-left pl-4" style="width: auto; background-color: #a83c39; opacity: 93%;">
                     {{ item.text }}
-                </div>
+                </div> -->
             </div>
             {% endfor %}
 
         </div>
-    </div> -->
+    </div>
 
 </header>
