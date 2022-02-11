@@ -1,11 +1,8 @@
 {% assign navurl = page.url | remove: 'index.html' %}
 <ul class="nav navbar-nav ml-auto w-100 justify-content-end">
-  {% for item in include.navigation %}
-  <li class="nav-item">
-    <a href="{{ item.url }}" class="font-weight-light nav-link{% if item.url == navurl %} active{% endif %}">{{ item.text }}</a>
-    {% if item.subitems %}
-    {% include navigation.html navigation=item.subitems %}
-    {% endif %}  
-  </li>
-  {% endfor %}
+    {% for item in include.navigation %}
+    <li class="nav-item">
+        <a href="{{ item.url }}" class="font-weight-light nav-link{% if item.url == navurl %} active{% endif %}">{{ item.text }}</a> {% if item.subitems %} {% include navigation.html navigation=item.subitems %} {% endif %}
+    </li>
+    {% endfor %}
 </ul>

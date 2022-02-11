@@ -1,7 +1,0 @@
-# specify site authors in this file
-# you can add .yml files for any other global data in this folder
-
-thezingaro:
-    name: Stefano P. Zingaro
-    email: stefanopio.zingaro@unibo.it
-    web: https://www.unibo.it/sitoweb/stefanopio.zingaro

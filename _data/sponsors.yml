@@ -1,12 +1,9 @@
-- name: Università di Bologna, Dipartimento di Informatica - Scienza e Ingegneria
-  link: https://disi.unibo.it/it
-  tier: gold
-  image: disi_logo.png
-- name: Injenia Srl
-  link: https://www.injenia.it/
-  tier: silver
-  image: injenia_logo.png
-- name: Philip Morris International
-  link: https://www.pmi.com/markets/italy/it/about-us/overview
-  tier: silver
-  image: pmi_logo.png
+- name: ENEA
+  link: https://www.bologna.enea.it/
+  image: assets/images/sponsors/logoenea.svg
+- name: DISI
+  link: https://disi.unibo.it/
+  image: assets/images/sponsors/disi_logo.png
+- name: Software Heritage
+  link: https://www.softwareheritage.org/
+  image: assets/images/sponsors/swh-logo.png

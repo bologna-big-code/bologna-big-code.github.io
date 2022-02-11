@@ -1,30 +1,20 @@
 ---
-layout: home
+layout: page
 title: Bologna Big Code Lab Event
 permalink: /
-section: home
 
 ---
 
-L’ENEA e il Dipartimento di Informatica dell’Università di Bologna, in collaborazione con Software Heritage e con il sostegno dell’International Foundation Big Data and Artificial Intelligence for Human Development (iFAB), hanno promosso il progetto “Bologna Big Code Lab” che si propone da un lato di esplorare nuovi metodi per lo sviluppo automatico e sicuro dei codici e dall’altro di creare occasioni di formazione e divulgazione per riflettere su temi fondamentali legati allo sviluppo delle nuove tecnologie digitali che stanno rapidamente trasformando la nostra società.  
+The [Italian National Agency for New Technologies, Energy and Sustainable Economic Development](https://www.enea.it/) (ENEA) and the [Department of Computer Science of the University of Bologna](https://disi.unibo.it/it) (DISI), in collaboration with [Software Heritage](https://www.softwareheritage.org/) (SH) and with the support of the [International Foundation Big Data and Artificial Intelligence for Human Development](https://www.ifabfoundation.org/) (iFAB), promote the **Bologna Big Code Lab** project, which aims *to explore new methods for the automatic and secure development of codes* and *to create opportunities for training and dissemination of the new digital technologies*.
  
-Il laboratorio Big Code trae spunto dalla presenza, presso il Centro Ricerche ENEA di Bologna, del primo mirror istituzionale europeo di Software Heritage (SH), l’archivio universale del codice sorgente (https://www.softwareheritage.org/), iniziativa ambiziosa e di grande respiro promossa da Inria (l’istituto nazionale francese per la ricerca in informatica) in cooperazione con l’Unesco. L’obiettivo di SH è raccogliere, conservare e rendere accessibile il software pubblicamente disponibile al mondo: come la Biblioteca di Alessandria nacque per preservare il sapere del mondo antico, questa moderna biblioteca digitale raccoglie e conserva un patrimonio espressione dell’ingegno, dell’intelligenza e della cultura dell’umanità.
+The **Bologna Big Code Lab** is inspired by the presence, at the [ENEA Research Center in Bologna](https://www.bologna.enea.it/), of the first European institutional mirror of [Software Heritage](https://www.softwareheritage.org/), the universal source code archive, an ambitious and far-reaching initiative promoted by the [French national institute for computer science research](https://www.inria.fr/en) (Inria) in cooperation with [UNESCO](https://www.unesco.it/). 
 
-<div class="py-4 h3" id="agenda">
-    Agenda
-</div>
-
-Il primo appuntamento pubblico realizzato nell’ambito del progetto Big Code Lab, si terrà il 16 Marzo e sarà una giornata dedicata ai codici, all’Open Source e ai nuovi archivi digitali. L’evento avrà un taglio multidisciplinare e un duplice obiettivo, formativo e divulgativo:
+The goal of [Software Heritage](https://www.softwareheritage.org/) is to collect, preserve and make accessible the software publicly available to the world: as the library of Alexandria was born to preserve the knowledge of the ancient world, this modern digital library collects and preserves a heritage expression of the genius, intelligence and culture of humanity.
 
 {% include table-event.html %}
- 
-Sarà lanciato un sondaggio, rivolto soprattutto agli studenti che, guidati da semplici schede, risponderanno alla domanda:
-“Quale codice salveresti e perché?”
- 
-In occasione del dibattito pubblico sarà comunicato l’esito del “sondaggio” e saranno menzionati/premiati gli autori delle tre motivazioni più centrate/originali/curiose.
 
-<div class="py-4 h3" id="relatori">
-    Relatori
+<div class="text-center py-4 h3" id="relators">
+    Relators
 </div>
 
 <div class="row">
@@ -46,18 +36,17 @@ In occasione del dibattito pubblico sarà comunicato l’esito del “sondaggio�
   </div>
 </div>
 
-<!-- <div class="list-group list-group-flush">
-  <a href="#" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1">Liesbeth De Mol - permanent researcher at CNRS. </a>
-  <a href="#" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1">Roberto Di Cosmo - </a>
-  <a href="#" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1" tabindex="-1" aria-disabled="true">Simone Martini - </a>
-  <a href="#" target="_blank" class="rounded list-group-item list-group-item-action list-group-item-primary mb-1" tabindex="-1" aria-disabled="true">Stefano Allegrezza - </a>
-</div> -->
-
-<div class="py-4 h2" id="contatti">
-    Contatti
+<div class="text-center py-4 h2" id="sponsors">
+  Sponsors
 </div>
 
-By submitting the form contained in this page, you consent to let the organisation collect and store the provided data. 
+{% include page-sponsors.html %}
+
+<div class="text-center py-4 h2" id="contact">
+  Contact
+</div>
+
+By submitting the contact form, you consent to let the organisation collect and store the provided data.
 You can revoke the consent at any given time and claim the correction or deletion of your personal data.
 
 {% include contact-form.html %}

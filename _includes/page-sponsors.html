@@ -1,0 +1,24 @@
+{% assign sponsors = site.data.sponsors %}
+
+<style>
+    .sponsor {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+{% if sponsors.size > 0 %}
+<div class="card">
+    <!-- <div class="card-header" style="background-color:#ffd700;">
+        Sponsors
+    </div> -->
+    <div class="card-body text-center">
+        {% for sponsor in sponsors %}
+        <a href="{{ sponsor.link }}" class="text-reset">
+            <img src="{{ sponsor.image }}" height="128" class="d-inline-block align-baseline" alt="" loading="lazy">
+        </a>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
