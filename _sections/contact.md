@@ -1,3 +1,19 @@
+---
+title: About
+image: path/to/img
+# Set the display order for this section
+order: 5
+# Specify the layout for this section
+include: sections/default.html
+# Set style variables
+bg-opaque-overlay: rgba(0,200,0,0.3)
+bg_image: http://loremflickr.com/2000/600/robot
+---
+
+<div class="text-center py-4 h3" id="contact">
+    Contact
+</div>
+
 <form id="contact-form" name="contact" method="POST" data-netlify="true">
     <!-- <div class="form-group">
         <label for="name"><b>Name</b></label>

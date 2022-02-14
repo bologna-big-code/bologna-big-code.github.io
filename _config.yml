@@ -68,3 +68,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# enable landing page with sections
+collections:
+  - sections

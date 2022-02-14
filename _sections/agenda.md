@@ -1,4 +1,17 @@
-<table class="table table-responsive-sm table-hover text-center small detailed-program" id="agenda">
+---
+title: About
+image: path/to/img
+# Set the display order for this section
+order: 3
+# Specify the layout for this section
+include: sections/default.html
+# Set style variables
+bg-opaque-overlay: rgba(0,200,0,0.3)
+bg_image: http://loremflickr.com/2000/600/robot
+---
+
+
+<table class="table table-responsive-sm table-hover text-center small detailed-program">
     <thead>
         <tr>
             <th scope="row" class="small"></th>
