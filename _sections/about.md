@@ -2,7 +2,7 @@
 title: About
 order: 1
 include: sections/default.html
-bg-opaque-overlay: rgba(0,200,0,0.3)
+bg: bg-white 
 
 ---
 

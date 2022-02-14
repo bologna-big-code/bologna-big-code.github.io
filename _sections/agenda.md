@@ -1,13 +1,9 @@
 ---
-title: About
-image: path/to/img
-# Set the display order for this section
+title: Agenda
 order: 3
-# Specify the layout for this section
 include: sections/default.html
-# Set style variables
-bg-opaque-overlay: rgba(0,200,0,0.3)
-bg_image: http://loremflickr.com/2000/600/robot
+bg: bg-white 
+
 ---
 
 
@@ -33,11 +29,11 @@ bg_image: http://loremflickr.com/2000/600/robot
         </tr>
         <tr>
             <th scope="row" class="small">16:45</th>
-            <td>Break</td>
+            <td>Break.</td>
         </tr>
         <tr>
             <th scope="row" class="small">17:15</th>
-            <td>Welcome back</td>
+            <td>Welcome back.</td>
         </tr>
         <tr>
             <th scope="row" class="small">17:30</th>

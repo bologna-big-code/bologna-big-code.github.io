@@ -1,13 +1,10 @@
 ---
-title: About
+title: Relators
 order: 4
-include: sections/two-columns.html
-bg-opaque-overlay: rgba(0,200,0,0.3)
----
+include: sections/default.html
+bg: bg-light 
 
-<div class="text-center py-4 h3" id="relators">
-    Relators
-</div>
+---
 
 <div class="row">
     <div class="col-4">

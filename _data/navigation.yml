@@ -1,5 +1,7 @@
 # specify main menu items here
 
+- text: About
+  url: /#about
 - text: Agenda
   url: /#agenda
 - text: Relators
