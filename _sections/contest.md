@@ -30,8 +30,7 @@ bg: bg-white
 </div>
 {% endif %}
 
-By submitting the form contained in this page, you consent to let the organisation collect and store the provided data. 
-You can revoke the consent at any given time and claim the correction or deletion of your personal data.
+### Submit your answer
 
 <form id="contact-form" name="contact" method="POST" data-netlify="true">
     <div class="form-group">
@@ -45,3 +44,6 @@ You can revoke the consent at any given time and claim the correction or deletio
     </div>
     <button type="submit" name="submit" class="btn btn-secondary w-100 mt-2 p-2">Submit</button>
 </form>
+
+By submitting the form contained in this page, you consent to let the organisation collect and store the provided data. 
+You can revoke the consent at any given time and claim the correction or deletion of your personal data.
