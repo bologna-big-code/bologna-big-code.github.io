@@ -18,7 +18,7 @@ bg: bg-white
         </div>
     </div>
     <div class="col-8">
-        <div class="tab-content" id="nav-tabContent">
+        <div class="tab-content" id="nav-tabContent2">
             {% for scheda in contest %}
             <div class="tab-pane fade show {% if forloop.index==1 %}active{% endif %}" id="{{ scheda.name | slugify }}" role="tabpanel" aria-labelledby="{{ scheda.name | slugify }}-list">
             <img src="{{ scheda.image }}" width="128px" class="rounded float-end">
