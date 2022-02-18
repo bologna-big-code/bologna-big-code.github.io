@@ -1,15 +1,18 @@
-- name: Liesbeth De Mol
+- name: L'origine dell'email
   image: assets/images/relators/ldemol.jpeg
   desc: >-
-    Liesbeth De Mol is a researcher of the French National Research Foundation (CNRS) based in Lille. 
-    She studied art history, archaeology and philosophy in Gent and obtained her PhD degree in philosophy in 2007. 
-    Her work is driven by the conviction that we are strongly in need of a deeper and independent reflection on computing and programming. 
-    In her own work, this is done by developing historical, epistemological and foundational questions that challenge common ways of thinking.
-    She has worked on the history and philosophy of computability; the reciprocal histories between mathematics, computing and engineering as well as the historical and epistemological connections, or lack thereof, between logic and computer science. 
-    She got into programming during her PhD research on a specific class of formal devices known as tag systems and which required, at a certain point, a computer-assisted approach. 
-    She is an advocate of history and philosophy of computing which does not shy away from technical expertise and practice.
-    She has published in a variety of venues which reflects her a-disciplinary stance. 
-    She is also the founding president of the DHST/DLMPST commission for the history and philosophy of computing and, currently, also the PI for the ANR research project PROGRAMme on the history and philosophy of computer programs.
+    Un’idea semplice quanto geniale e poche linee di codice hanno rivoluzionato, a partire dalla metà degli anni sessanta, il nostro modo di comunicare: nasce l’e-mail.
+1961, al MIT di Boston, un gruppo di ricercatori hanno l’idea di usare il computer, a cui tutti loro hanno accesso, per comunicare velocemente e chattare online, una cosa scontata per noi ma in quegli anni era quasi fantascienza: nasce il primo prototipo di messaggio elettronico. 
+1965, viene creato il comando mail; ogni messaggio ricevuto viene inserito all’interno di una mail box, un “contenitore” riservata al destinatario che può leggere il messaggio e, quando vuole, eliminarlo.
+1971, un giovane laureato del MIT riesce a inviare messaggi a destinatari collegati a computer diversi. L’indirizzo sarà fatto di due parti: una che identifica il mittente e una che individua il “computer” separate da un simbolo passato alla storia: @.
+Anni ’90, con internet nasce la email come la conosciamo oggi. 
+Grazie alla rete e a poche linee di codice è avvenuto un cambiamento epocale: 
+dalla lettera pensata e poi scritta in bella calligrafia sulla carta, con macchie di inchiostro e correzioni in bella evidenza e lunghi tempi di consegna, all’email, digitata sulla tastiera in modo veloce, asettico, senza memoria di errori e consegnata in pochi secondi a una o più persone simultaneamente, allegando praticamente tutto quanto desideriamo. 
+Riusciamo a immaginare quante mail ci scambiamo oggi in un giorno? Più di 300 miliardi 
+Riflessione: 
+Potrà mai accadere che una e-mail venga un giorno battuta all’asta per quasi tre milioni di dollari com’è stato per la “lettera su Dio” scritta nel 1954 da Albert Einstein?
+
+   
 - name: Roberto Di Cosmo
   image: assets/images/relators/rdicosmo.jpg
   desc: >-
