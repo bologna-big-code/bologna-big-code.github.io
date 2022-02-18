@@ -1,0 +1,41 @@
+- name: Liesbeth De Mol
+  image: assets/images/relators/ldemol.jpeg
+  desc: >-
+    Liesbeth De Mol is a researcher of the French National Research Foundation (CNRS) based in Lille. 
+    She studied art history, archaeology and philosophy in Gent and obtained her PhD degree in philosophy in 2007. 
+    Her work is driven by the conviction that we are strongly in need of a deeper and independent reflection on computing and programming. 
+    In her own work, this is done by developing historical, epistemological and foundational questions that challenge common ways of thinking.
+    She has worked on the history and philosophy of computability; the reciprocal histories between mathematics, computing and engineering as well as the historical and epistemological connections, or lack thereof, between logic and computer science. 
+    She got into programming during her PhD research on a specific class of formal devices known as tag systems and which required, at a certain point, a computer-assisted approach. 
+    She is an advocate of history and philosophy of computing which does not shy away from technical expertise and practice.
+    She has published in a variety of venues which reflects her a-disciplinary stance. 
+    She is also the founding president of the DHST/DLMPST commission for the history and philosophy of computing and, currently, also the PI for the ANR research project PROGRAMme on the history and philosophy of computer programs.
+- name: Roberto Di Cosmo
+  image: assets/images/relators/rdicosmo.jpg
+  desc: >-
+    Full Professor of Computer Science and director of Software Heritage. A graduate of the Scuola Normale Superiore in Pisa, he earned a Ph.D. from the University of Pisa before becoming a tenured professor at the École Normale Supérieure in Paris, then a full professor at Paris Diderot University. 
+    Author of the best seller "Le Hold up Planétaire" on computer monopolies in 1998, he is known for his support in the Free and Open Source Software movement. 
+    He was the first chairman of the Open Source thematic group within the Systematic innovation cluster. 
+    In 2010 he created IRILL, a free software research and innovation initiative. 
+    He is a member of the Board of Trustees of the IMDEA Software Institute. 
+    He is the founder and director of Software Heritage, a worldwide infrastructure whose mission is to bring together the source code of all existing software.
+- name: Simone Martini
+  image: assets/images/relators/smartini.jpg
+  desc: >-
+    Full Professor at the Department of Computer Science - Science and Engineering of UNIBO. 
+    He holds a degree in Computer Science and a Ph.D. in Computer Science from the University of Pisa. 
+    Before moving to Bologna in 2002, he was researcher and associate professor in Pisa and full professor of Computer Science in Udine. 
+    He was Director of the Department of Computer Science-Engineering from May 2015 to May 2018. 
+    He has spent periods as a visiting scientist at the Systems Research Center of the Digital Equipment Corporation, Palo Alto; at Stanford University; at the École normale supérieure, Paris; at the Université Paris 13; at the University of California at Santa Cruz; and at the Collegium-Institute d'Études Avancées de Lyon (Fellow 2018-2019). 
+    He is a member of the Council of the Commission on History and Philosophy of Computing of the International Union for History and Philosophy of Science, 2017-2021.
+    His research interests include the logical-mathematical foundations of programming languages, and the history and philosophy of computing.
+- name: Stefano Allegrezza
+  image: assets/images/relators/sallegrezza.jpg
+  desc: >-
+    Associate Professor at the Department of Cultural Heritage UNIBO. 
+    Scientific disciplinary sector: Archival Science, Bibliography and Library Science. 
+    He participates in the Industrial Research Center "Information and Communication Technologies - ICT" of the University of Bologna, joining the Clust-ER "Cultural and Creative Industries" and "Innovation in Services". 
+    He is member of the Council of the Interdipardimental Research Center "Alma Mater Research Institute for Human-Centered Artificial Intelligence (Alma AI)" of the University of Bologna. 
+    He is the scientific responsible of the International Research Center on Digital Archives at the University of Bologna. He is a member of the teaching staff of the PhD program in "Humanism and Technologies" at the University of Macerata. 
+    He is a member of the Scientific Committee of the international journal "Atlanti: review for modern archival theory and practice", published by the International Institute for Archival Science of Trieste and Maribor, of the journal "Archivi" and of the journal "JLIS - Italian Journal of Library, Archives and Information Science".
+    

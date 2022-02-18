@@ -1,10 +1,34 @@
 ---
-title: Contact
+title: Contest
 order: 5
 include: sections/default.html
-bg: bg-white 
+bg: bg-white
 
 ---
+
+{% assign contest = site.data.contest %}
+
+{% if contest.size > 0 %}
+<div class="row">
+    <div class="col-4">
+        <div class="list-group" id="list-tab" role="tablist">
+            {% for scheda in contest %}
+            <a class="list-group-item list-group-item-action {% if forloop.index==1 %}active{% endif %}" id="{{ scheda.name | slugify }}-list" data-bs-toggle="list" href="#{{ scheda.name | slugify }}" role="tab" aria-controls="home">{{ scheda.name }}</a>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="col-8">
+        <div class="tab-content" id="nav-tabContent">
+            {% for scheda in contest %}
+            <div class="tab-pane fade show {% if forloop.index==1 %}active{% endif %}" id="{{ scheda.name | slugify }}" role="tabpanel" aria-labelledby="{{ scheda.name | slugify }}-list">
+            <img src="{{ scheda.image }}" width="128px" class="rounded float-end">
+            {{ scheda.desc }}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
 
 By submitting the form contained in this page, you consent to let the organisation collect and store the provided data. 
 You can revoke the consent at any given time and claim the correction or deletion of your personal data.
