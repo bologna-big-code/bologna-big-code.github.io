@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - name: L'origine dell'email
   image: assets/images/contest/Email_1.jpg, assets/images/contest/Email_2.jpg
   desc: >-
@@ -96,3 +97,25 @@
     Siri si adatta addirittura alle esigenze, alle ricerche e alle preferenze linguistiche di chi lo sta usando, “impara a conoscere” il suo padrone mentre lui la utilizza.
     Una riflessione: Alexa e Siri veri e propri “assistenti personali intelligenti”. Gentili e disponibili, si fanno interrogare in continuazione su questo o quello senza mai sbuffare o mandarci a quel paese. Tra non molto, guardandoci negli occhi, sapranno consolare il nostro pianto o riusciranno a farci sentire meno soli conversando con noi magari sull’ultimo concerto della nostra band preferita.
     Ci chiediamo quindi, Alexa, Siri...chi ci sarà dopo? Quale sarà il suo limite?  Dove potremo arrivare grazie all’Intelligenza Artificiale?
+=======
+- name: <i class="bi bi-mailbox"></i> Origini della Posta Elettronica
+  image: assets/images/relators/ldemol.jpeg
+  desc: >-
+    **Un’idea semplice quanto geniale** e poche linee di codice hanno rivoluzionato, a partire dalla metà degli anni '70, il nostro modo di comunicare: *nasce l’e-mail*.
+
+    - 1961, al MIT di Boston, un gruppo di ricercatori hanno l’idea di usare il computer, a cui tutti loro hanno accesso, per comunicare velocemente e chattare online, una cosa scontata per noi ma in quegli anni era quasi fantascienza: nasce il primo prototipo di messaggio elettronico. 
+    
+    - 1965, viene creato il comando mail; ogni messaggio ricevuto viene inserito all’interno di una mail box, un “contenitore” riservata al destinatario che può leggere il messaggio e, quando vuole, eliminarlo.
+    
+    - 1971, un giovane laureato del MIT riesce a inviare messaggi a destinatari collegati a computer diversi. L’indirizzo sarà fatto di due parti: una che identifica il mittente e una che individua il “computer” separate da un simbolo passato alla storia: **@**.
+    
+    - Anni '90, con internet nasce la email come la conosciamo oggi. 
+    
+    
+    Grazie alla rete e a poche linee di codice è avvenuto un cambiamento epocale: dalla lettera pensata e poi scritta in bella calligrafia sulla carta, con macchie di inchiostro e correzioni in bella evidenza e lunghi tempi di consegna, all’email, digitata sulla tastiera in modo veloce, asettico, senza memoria di errori e consegnata in pochi secondi a una o più persone simultaneamente, allegando praticamente tutto quanto desideriamo. 
+    Riusciamo a immaginare quante mail ci scambiamo oggi in un giorno? Più di 300 miliardi.
+    
+    
+    **Riflessione:** 
+    *Potrà mai accadere che una e-mail venga un giorno battuta all’asta per quasi tre milioni di dollari com’è stato per la "lettera su Dio" scritta nel 1954 da Albert Einstein?*
+>>>>>>> cec44d1 (adding the contest form and tab pane)

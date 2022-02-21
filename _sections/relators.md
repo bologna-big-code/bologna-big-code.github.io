@@ -22,7 +22,7 @@ bg: bg-light
             {% for relator in relators %}
             <div class="tab-pane fade show {% if forloop.index==1 %}active{% endif %}" id="{{ relator.name | slugify }}" role="tabpanel" aria-labelledby="{{ relator.name | slugify }}-list">
             <img src="{{ relator.image }}" width="128px" class="rounded float-end">
-            {{ relator.desc }}
+            {{ relator.desc | markdownify }}
             </div>
             {% endfor %}
         </div>
