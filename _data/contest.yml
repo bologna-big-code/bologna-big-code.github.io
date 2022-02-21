@@ -101,9 +101,9 @@
 
     E così, grazie a decine o centinaia di migliaia di esempi, memorizzati ed elaborati, un computer è in grado di “guardare” un’immagine e “distinguere” se al suo interno c’è un cane o un gatto o...la tua faccia “taggata” in una qualche foto sui social!
     Anche se, a volte, fa confusione tra un chihuahua e un muffin al mirtillo (come dargli torto).
-    <img src='assets/images/contest/Alexnet_1.jpg' height="50%" width="50%"/>
+    <img src='assets/images/contest/Alexnet_1.jpg' height="50%" width="50%" align="left"/>
 
-
+    
     Ma dove si trovano queste grandi quantità di “esempi” da utilizzare per addestrare una rete neurale?
     Sono state costruite a questo scopo vere e proprie “banche di immagini”; ecco alcuni esempi:
 
