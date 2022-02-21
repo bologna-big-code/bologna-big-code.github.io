@@ -1,44 +1,98 @@
 - name: L'origine dell'email
-  image: assets/images/relators/ldemol.jpeg
+  image: assets/images/contest/Email_1.jpg, assets/images/contest/Email_2.jpg
   desc: >-
     Un’idea semplice quanto geniale e poche linee di codice hanno rivoluzionato, a partire dalla metà degli anni sessanta, il nostro modo di comunicare: nasce l’e-mail.
-1961, al MIT di Boston, un gruppo di ricercatori hanno l’idea di usare il computer, a cui tutti loro hanno accesso, per comunicare velocemente e chattare online, una cosa scontata per noi ma in quegli anni era quasi fantascienza: nasce il primo prototipo di messaggio elettronico. 
-1965, viene creato il comando mail; ogni messaggio ricevuto viene inserito all’interno di una mail box, un “contenitore” riservata al destinatario che può leggere il messaggio e, quando vuole, eliminarlo.
-1971, un giovane laureato del MIT riesce a inviare messaggi a destinatari collegati a computer diversi. L’indirizzo sarà fatto di due parti: una che identifica il mittente e una che individua il “computer” separate da un simbolo passato alla storia: @.
-Anni ’90, con internet nasce la email come la conosciamo oggi. 
-Grazie alla rete e a poche linee di codice è avvenuto un cambiamento epocale: 
-dalla lettera pensata e poi scritta in bella calligrafia sulla carta, con macchie di inchiostro e correzioni in bella evidenza e lunghi tempi di consegna, all’email, digitata sulla tastiera in modo veloce, asettico, senza memoria di errori e consegnata in pochi secondi a una o più persone simultaneamente, allegando praticamente tutto quanto desideriamo. 
-Riusciamo a immaginare quante mail ci scambiamo oggi in un giorno? Più di 300 miliardi 
-Riflessione: 
-Potrà mai accadere che una e-mail venga un giorno battuta all’asta per quasi tre milioni di dollari com’è stato per la “lettera su Dio” scritta nel 1954 da Albert Einstein?
-
-   
-- name: Roberto Di Cosmo
-  image: assets/images/relators/rdicosmo.jpg
+    1961, al MIT di Boston, un gruppo di ricercatori hanno l’idea di usare il computer, a cui tutti loro hanno accesso, per comunicare velocemente e chattare online, una cosa scontata per noi ma in quegli anni era quasi fantascienza: nasce il primo prototipo di messaggio elettronico.
+    1965, viene creato il comando mail; ogni messaggio ricevuto viene inserito all’interno di una mail box, un “contenitore” riservata al destinatario che può leggere il messaggio e, quando vuole, eliminarlo.
+    1971, un giovane laureato del MIT riesce a inviare messaggi a destinatari collegati a computer diversi. L’indirizzo sarà fatto di due parti: una che identifica il mittente e una che individua il “computer” separate da un simbolo passato alla storia: @.
+    Anni ’90, con internet nasce la email come la conosciamo oggi.
+    Grazie alla rete e a poche linee di codice è avvenuto un cambiamento epocale: dalla lettera pensata e poi scritta in bella calligrafia sulla carta, con macchie di inchiostro e correzioni in bella evidenza e lunghi tempi di consegna, all’email, digitata sulla tastiera in modo veloce, asettico, senza memoria di errori e consegnata in pochi secondi a una o più persone simultaneamente, allegando praticamente tutto quanto desideriamo.
+    Riusciamo a immaginare quante mail ci scambiamo oggi in un giorno? Più di 300 miliardi.
+    Una riflessione: potrà mai accadere che una e-mail venga un giorno battuta all’asta per quasi tre milioni di dollari com’è stato per la “lettera su Dio” scritta nel 1954 da Albert Einstein?
+- name: Dall'Enciclopedia a Wikipedia
+  image: assets/images/contest/Wiki_1.jpg, assets/images/contest/Wiki_2.jpg
   desc: >-
-    Full Professor of Computer Science and director of Software Heritage. A graduate of the Scuola Normale Superiore in Pisa, he earned a Ph.D. from the University of Pisa before becoming a tenured professor at the École Normale Supérieure in Paris, then a full professor at Paris Diderot University. 
-    Author of the best seller "Le Hold up Planétaire" on computer monopolies in 1998, he is known for his support in the Free and Open Source Software movement. 
-    He was the first chairman of the Open Source thematic group within the Systematic innovation cluster. 
-    In 2010 he created IRILL, a free software research and innovation initiative. 
-    He is a member of the Board of Trustees of the IMDEA Software Institute. 
-    He is the founder and director of Software Heritage, a worldwide infrastructure whose mission is to bring together the source code of all existing software.
-- name: Simone Martini
-  image: assets/images/relators/smartini.jpg
+    1994 Ward Cunningham, programmatore statunitense, sviluppa un software che realizza un sito web modificabile dai suoi utenti, uno spazio virtuale che consente un continuo e rapido scambio di idee e informazioni. Lo chiama Wiki: wikiwiki è una delle prime parole che aveva imparato al suo arrivo all’aeroporto di Honolulu. In hawaiano significa "molto veloce" e le sue pagine web sono velocemente consultabili e modificabili da tutti.
+    Grazie al software di Cunningham si compie una rivoluzione => i wiki conquistano sempre più consensi come luogo di condivisione della conoscenza e aprono le porte a Wikipedia.
+    Un salto epico: dall’ Encyclopédie (enkýklios paidéia "educazione ciclica") di Diderot e d'Alembert del 1751, il primo ponderoso compendio, complessivo e sistematico delle conoscenze di un'intera cultura...a Wikipedia (Wiki paidéia “educazione veloce”) del 2001, l'enciclopedia online a contenuto libero, collaborativa, multilingue e gratuita che stravolge il paradigma positivista della trasmissione della conoscenza con un’élite culturale a capo del sapere.
+    Con wiki, l’informazione non solo è accessibile, pressoché immediatamente, a tutti ma può essere prodotta da tutti (ovviamente dopo aver subito controlli di attendibilità).
+    Oggi la Wikipedia inglese conta 6449799 articoli totali, 588 nuovi articoli al giorno e più di 400 milioni di visitatori i al mese.
+    Una riflessione: Wikipedia metterà davvero in pensione l’Enciclopedia Treccani? Giovanni Gentile, suo primo direttore scientifico, chiamò «a collaborare alla nuova impresa 3.266 studiosi, di diverso orientamento», i migliori sulla piazza.
+    E oggi sul sito della Treccani, là dove se ne delinea la storia si legge "Caratterizzate sin dalle origini dal rigore critico e dall’approfondimento scientifico e culturale, ma insieme dalla capacità di sintesi e di divulgazione ‘alta’, dalla presenza tra i collaboratori dei massimi esperti italiani e internazionali in ciascun ambito della ricerca, e allo stesso tempo dall’equilibrio tra campi disciplinari diversi, all’epoca della diffusione incontrollata delle notizie e delle conoscenze resa possibile dal world wide web, le opere Treccani, cartacee e digitali, continuano a svolgere quella indispensabile funzione di filtro e di validazione che costituisce il compito più alto di una casa editrice e che rappresenta allo stesso tempo una priorità strategica per la cultura del terzo millennio."
+- name: Il like di Facebook
+  image: assets/images/contest/Like_1.jpg, assets/images/contest/Like_2.jpg
   desc: >-
-    Full Professor at the Department of Computer Science - Science and Engineering of UNIBO. 
-    He holds a degree in Computer Science and a Ph.D. in Computer Science from the University of Pisa. 
-    Before moving to Bologna in 2002, he was researcher and associate professor in Pisa and full professor of Computer Science in Udine. 
-    He was Director of the Department of Computer Science-Engineering from May 2015 to May 2018. 
-    He has spent periods as a visiting scientist at the Systems Research Center of the Digital Equipment Corporation, Palo Alto; at Stanford University; at the École normale supérieure, Paris; at the Université Paris 13; at the University of California at Santa Cruz; and at the Collegium-Institute d'Études Avancées de Lyon (Fellow 2018-2019). 
-    He is a member of the Council of the Commission on History and Philosophy of Computing of the International Union for History and Philosophy of Science, 2017-2021.
-    His research interests include the logical-mathematical foundations of programming languages, and the history and philosophy of computing.
-- name: Stefano Allegrezza
-  image: assets/images/relators/sallegrezza.jpg
+    Chi di voi non conosce il like di Facebook che sta per “mi piace”? Un semplice bottone che ci consente con un click di esprimere immediatamente, senza alcuna fatica, senza spendere troppo del nostro tempo prezioso, il nostro apprezzamento per una foto, un video, una frase, un’opinione, un prodotto...Così gli amici potranno “apprezzarsi”, sostenersi a vicenda con molta più frequenza e facilità.
+    L’uovo di Colombo: un’idea quasi banale di un gruppetto di programmatori di Facebook che la realizzano nel 2009 con poche linee di codice, cambiando forse per sempre il nostro modo di rapportarci.
+    Ebbene ha funzionato, forse anche troppo, tanto che nel 2012, a distanza di soli tre anni, il bottone era stato cliccato più di 1 trilione di volte e nel 2016, gli 1,6 miliardi di utenti di Facebook lo cliccavano circa 6 miliardi di volte al giorno sbloccando un diluvio di approvazioni e diventando allo stesso tempo motivo di consenso e di litigio.
+    Poche linee di codice per realizzare un semplice contatore, un “+1” ogniqualvolta quel pollice in su è cliccato, ed eccoci lì a “refreshare” con ansia la pagina dove abbiamo pubblichiamo l’ultima foto, aspettando che i like aumentino.
+    La tensione cresce e noi modifichiamo i nostri comportamenti online provando a essere più divertenti, più caustici, più glamour, più estremi...per piacere di più.
+    I like, poi, raccontano molto di noi a chi ha interesse ad ascoltare! E così ti inseguono anche se ti allontani da Facebook e vai altrove sul Web: annunci pubblicitari spuntano inattesi dopo un like messo sul tuo account e così possono incidere per miliardi di dollari pubblicitari ogni mese.
+    E quelli/quelle particolarmente bravi/brave ad accalappiarli si ritrovano novelli influencer, leader adorati delle loro community, misurate, manco a dirlo, a colpi di  like!
+    Una riflessione: e se provassimo a...non prenderlo troppo sul serio!
+- name: Codice di salvataggio dell'Apollo 11
+  image: assets/images/contest/Apollo11_1.jpg, assets/images/contest/Apollo11_2.jpg
   desc: >-
-    Associate Professor at the Department of Cultural Heritage UNIBO. 
-    Scientific disciplinary sector: Archival Science, Bibliography and Library Science. 
-    He participates in the Industrial Research Center "Information and Communication Technologies - ICT" of the University of Bologna, joining the Clust-ER "Cultural and Creative Industries" and "Innovation in Services". 
-    He is member of the Council of the Interdipardimental Research Center "Alma Mater Research Institute for Human-Centered Artificial Intelligence (Alma AI)" of the University of Bologna. 
-    He is the scientific responsible of the International Research Center on Digital Archives at the University of Bologna. He is a member of the teaching staff of the PhD program in "Humanism and Technologies" at the University of Macerata. 
-    He is a member of the Scientific Committee of the international journal "Atlanti: review for modern archival theory and practice", published by the International Institute for Archival Science of Trieste and Maribor, of the journal "Archivi" and of the journal "JLIS - Italian Journal of Library, Archives and Information Science".
-    
+    Era il 20 luglio del 1969 e 16 milioni di persone erano incollate davanti al televisore che mostrava le sfocate immagini in bianco e nero di un evento di importanza mondiale: la missione Apollo 11 stava portando per la prima volta l’uomo sulla luna.
+    Forse non tutti sanno che un ruolo chiave in questo traguardo fondamentale era svolto dal software eseguito sul “Apollo Guidance Computer” (AGC), il computer di bordo:
+    60000 righe di codice sviluppato da un grande team del MIT guidato da Margaret Hamilton.
+    Potremmo pensare che questo computer avesse chissà quale potenza di calcolo e chissà quanta memoria. In realtà, disponeva di una capacità di memoria quasi nulla. E tutto ha funzionato lo stesso, incredibile no?!
+    Per ovviare a eventuali problemi legati alla scarsa memoria, Margaret Hamilton e il suo team avevano predisposto un codice di bailout, letteralmente di salvataggio, che in caso di necessità forzava il computer ad essere performante sempre e solo sul compito più importante ignorando quelli secondari.
+    Pochi minuti prima dell'allunaggio, diversi allarmi con codice 1202 e 1201 indicavano che il computer di guida stava sprecando risorse in compiti minori e che la memoria rischiava di sovraccaricarsi. L’intera missione era in grave pericolo! Ma grazie al codice di bailout, il computer smise di divagare e tornò al compito principale
+    Oggi il codice sorgente dell'AGC è conservato nell’archivio Software Heritage che raccoglie, custodisce e rende fruibili tutti i codici disponibili pubblicamente sul pianeta.
+    Non era un caso che a capo del team di programmatori del codice  dell’AGC ci fosse una donna. Quando i computer diventarono una realtà, negli anni quaranta del novecento, a scrivere i programmi erano in gran parte donne, per lo più laureate in matematica. Gli uomini sembravano non dare troppa importanza allo sviluppo dei codici: la vera gloria risiedeva nel fabbricare le macchine, il cosiddetto hard-ware.
+    Nel 1967 c’erano tante programmatrici che la rivista Cosmopolitan dedicò loro un articolo: “Computer girls” sottolineando come le donne potessero guadagnare davvero molto con questa attività.
+    Una riflessione: Il successo delle donne nell’informatica è durato poco, già negli anni ottanta negli Stati Uniti il loro lavoro pionieristico era stato quasi dimenticato. Anche Hollywood cominciava a rappresentare il mondo dei computer come il regno degli uomini. Forse perché il vecchio rapporto gerarchico tra hardware e software si era invertito e il software stava diventando più importante e redditizio? Ai posteri l’ardua sentenza...
+- name: Riconoscimento automatico d'immagini
+  image: assets/images/contest/Alexnet_1.jpg, assets/images/contest/Alexnet_2.jpg
+  desc: >-
+    Avete mai notato che viaggiando a bordo di un Frecciarossa non riuscite a leggere il nome delle stazioni? Questo accade perché il nostro cervello visivo è una macchina che ha bisogno di un certo tempo per avere coscienza dell’immagine che si forma sulla nostra retina, un tempo piccolissimo in verità ma necessario se vogliamo avere coscienza che stiamo guardando un albero o un cane o un’astronave.
+    Quant’è questo tempo? Sembra che bastino qualche decina di millisecondi: il nostro cervello è davvero molto efficiente!
+    Difficilmente potremmo immaginare una macchina in grado di eguagliarne le prestazioni...
+    Di certo era così prima che, nel 2012, Geoffrey Hinton, professore all’Università di Toronto,e i suoi studenti Alex e Ilya, concepissero e programmassero AlexNet, il primo codice in grado di battere l’occhio umano nel riconoscere un’immagine: più veloce e più preciso.
+    Ma come può un computer riconoscere un albero, un gatto o un’automobile più velocemente del nostro cervello?
+    Ci riesce grazie all’Intelligenza Artificiale, e più precisamente agli algoritmi delle “reti neurali” che se vengono addestrate con una grande quantità di esempi, riescono ad apprendere un certo compito e a svolgerlo poi automaticamente.
+    E così, grazie a decine o centinaia di migliaia di esempi, memorizzati ed elaborati, un computer è in grado di “guardare” un’immagine e “distinguere” se al suo interno c’è un cane o un gatto o...la tua faccia “taggata” in una qualche foto sui social!
+    Anche se, a volte, fa confusione tra un chihuahua e un muffin al mirtillo (come dargli torto).
+    Ma dove si trovano queste grandi quantità di “esempi” da utilizzare per addestrare una rete neurale?
+    Sono state costruite a questo scopo vere e proprie “banche di immagini”; ecco alcuni esempi:
+    ImageNet contiene più di 14 milioni di immagini classificate a mano
+    Open Images di Google ne contiene più di 9 milioni
+    Tiny Images Dataset è un archivio di quasi 80 milioni di immagini a cura della New 	York University e del MIT di Boston.
+    Questi sistemi oggi permettono di costruire macchine che si guidano da sole e robot che si muovono agevolmente nello spazio.
+    Nelle industrie consentono l’ispezione veloce e precisa di difetti nei prodotti e sono perfino in grado di esaminare una tac, una radiografia o una risonanza magnetica, anche se l’ultima parola ce l’ha il dottore...per fortuna!
+- name: Taumus e la computer music
+  image: assets/images/contest/Taumus_1.jpg, assets/images/contest/Taumus_2.jpg
+  desc: >-
+    Chi conosce Paganini e i suoi strabilianti e impossibili capricci per violino solo, potrebbe stupirsi di sapere che uno dei più difficili e impegnativi, il capriccio n°5, quello che ha fatto intorcinare le dita a Jason Becker virtuoso della chitarra elettrica, è stato “suonato alla perfezione”, nel lontano 1967, da un gigantesco computer a schede perforate presso la Olivetti General Electric a Pregnana Milanese.
+    L’idea venne a Pietro Grossi, violoncellista e compositore, che da quando aveva letto su un giornale che "il computer emetteva suoni", si era messo in testa di farlo suonare.
+    E così, insieme ai ricercatori dell'istituto di Elaborazione dell'Informazione del C.N.R. di Pisa, realizzò il primo codice (il sistema di elaborazione elettronica di dati GE-115) in grado di creare e manipolare brani musicali sulla base di istruzioni comandi assegnati dall'utente mediante la tastiera alfanumerica del terminale collegato all’elaboratore.
+    Nasce così Taumus, un codice predisposto per la lettura, la decodifica e la memorizzazione di testi musicali, per la loro rielaborazione ed esecuzione nonché per la composizione automatica e la gestione degli archivi di musica. Insomma un compositore vero, che “ispirandosi” all’esperienza di chi lo ha preceduto, produce “nuova” musica.
+    E per eseguire la musica del computer viene progettato Tau2, un sintetizzatore digitale a 12 voci, lo strumento musicale sul quale TAUMUS esegue le strutture sonore che ha elaborato.
+    Il sistema Tau2-Taumus diventa uno degli strumenti principali di sperimentazione e produzione di computer music, ed è proprio in Taumus che vengono introdotte le prime procedure per alterare uno spartito introducendo in maniera controllata, chirurgica, elementi casuali, consentendo così di esplorare composizioni nuove e originali.
+    Ci piace sottolineare due aspetti a proposito di questo straordinario codice e dei suoi autori: la prima è che TAUMUS, un lavoro totalmente italiano, è l’esempio lampante di come molti grandi avanzamenti in campo tecnico-scientifico siano il frutto della collaborazione di professionalità diverse che diventano complementari, in questo caso il musicista e gli esperti di codici e di computer.
+    Il secondo aspetto che ci piace ricordare è che il Maestro Grossi è stato un grande anticipatore: gli piaceva ad esempio condividere le sue creazione lasciando tutti liberi di rielaborarle, un autentico pioniere dei progetti open source.
+    Una riflessione: per tornare al capriccio di Paganini, quell’impossibile numero 5, di certo il GE-115 della General Electrics ha fatto del suo meglio. Ma dopo averlo ascoltato su YouTube, siamo certi che continueremo a preferire l’esecuzione di Leonidas Kavakos o di Salvatore Accardo.
+- name: Clustering NN
+  image: assets/images/contest/Clustering_1.jpg, assets/images/contest/Clustering_2.jpg
+  desc: >-
+    Vi siete mai chiesti perché, dopo una giornata a cercare in rete l’offerta perfetta per acquistare un nuovo pc, nei giorni successivi vi trovate i social intasati da pubblicità proprio di pc?
+    La risposta sta negli algoritmi di “clustering” che aggregano, che mettono insieme, cose o persone. Nel vostro caso, un codice vi ha associati ad allo specifico profilo di consumatore interessato ad acquistare un PC. E così Spotify vi consiglia un brano di trap, se a voi piace, o Netflix vi suggerisce un film del genere che preferite.
+    Ma come fanno Google, Netflix o Spotify a sapere ciò che noi preferiamo?
+    Semplice: quando usiamo internet per cercare una notizia, una ricetta o per connetterci col nostro “amico” di FB e mettere un like sul suo ultimo post, noi lasciamo inconsapevolmente delle “tracce digitali”, piccole o grandi che siano.
+    Nessuna è considerata trascurabile, anche l’errore di ortografia che commettiamo digitando le parole chiave per una ricerca su Google, un dato apparentemente innocuo, “residuo”, è un dato che può essere recuperato.
+    Con le informazioni che ci riguardano, un computer reso “intelligente” da codici di clustering, comincerà a studiare i dati, a fare l’analisi dei gruppi basandosi su misure di somiglianza o dissimilarità, a raggruppare elementi omogenei rispetto ad un insieme di dati fissato e alla fine inserirà il vostro profilo nel gruppo opportuno. E a questo punto qualcuno potrà inviarvi consigli mirati su cosa ascoltare, guardare o...acquistare.
+    Non navighiamo gratis, si tratta in realtà di uno scambio: internet ci fornisce informazioni e connettività e noi ripaghiamo lasciando nostre informazioni. I social e le piattaforme di streaming ci ascoltano? Non proprio, non ne hanno bisogno, gli bastano i “dati”, potenti computer e linee di codice ben fatte.
+    Una riflessione: c’è chi dice che i colossi “big tech” alle volte ci conoscano meglio di noi stessi e che possano arrivare a prevedere la nostra personalità, le nostre emozioni, il nostro orientamento sessuale, il nostro orientamento politico: un insieme di cose che non abbiamo mai e poi mai inteso rivelare (Shoshana Zuboff, professoressa alla Business School di Harvard).
+- name: Eliza Chatbot
+  image: assets/images/contest/Eliza_1.jpg, assets/images/contest/Eliza_2.jpg
+  desc: >-
+    Oggi parlare con Alexa, Siri o Google home è normale; non ci stupiamo di certo che una voce digitale risponda alle nostre domande.
+    Ma quando è nata la comunicazione tra uomo e macchina? Nasce negli anni Sessanta, quando con i primi chatbot, codici progettati per far “chiacchierare” la macchina con l’uomo attraverso un’interfaccia grafica che permetteva di inviare e ricevere messaggi, dando il via ad una vera e propria chat.
+    Il primo esempio di chatbot (fusione tra chat e robot) è Eliza, un software sviluppato nel 1966 da Joseph Weizenbaum che aveva come scopo quello di creare l'illusione (seppur breve) di un dialogo uomo-uomo. Weizenbaum pensò a una conversazione di un paziente col suo terapeuta, il computer appunto, il quale risponde utilizzando le parole del paziente stesso.
+    Eliza analizza le parole che l'utente immette nel programma e le utilizza inserendole in frasi preconfezionate; l'illusione di un interlocutore umano talvolta risulta talmente convincente che ci sono aneddoti su persone così convinte di comunicare con un essere umano, da insistere per parecchi minuti!
+    Testate anche voi la credibilità di Eliza (https://web.njit.edu/~ronkowit/eliza.html)
+    Da quel primo esperimento del  lontano 1966 molta strada è stata fatta e oggi, Alexa e Siri sono molto diversi da Eliza. Mentre Eliza era guidata dalle regole dettate dal codice, Alexa e Siri sono prodotti con i metodi dell’Intelligenza Artificiale: sono dei programmi che “apprendono” da grandi quantità di esempi, un po’ come fanno i bambini quando imparano a parlare, non applicano certo le regole della grammatica e della sintassi ma ascoltano tante parole e frasi che gli adulti ripetono in circostanze diverse.
+    Siri si adatta addirittura alle esigenze, alle ricerche e alle preferenze linguistiche di chi lo sta usando, “impara a conoscere” il suo padrone mentre lui la utilizza.
+    Una riflessione: Alexa e Siri veri e propri “assistenti personali intelligenti”. Gentili e disponibili, si fanno interrogare in continuazione su questo o quello senza mai sbuffare o mandarci a quel paese. Tra non molto, guardandoci negli occhi, sapranno consolare il nostro pianto o riusciranno a farci sentire meno soli conversando con noi magari sull’ultimo concerto della nostra band preferita.
+    Ci chiediamo quindi, Alexa, Siri...chi ci sarà dopo? Quale sarà il suo limite?  Dove potremo arrivare grazie all’Intelligenza Artificiale?
