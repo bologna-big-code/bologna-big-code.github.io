@@ -22,6 +22,8 @@
   image: assets/images/contest/Wiki_1.jpg, assets/images/contest/Wiki_2.jpg
   desc: >-
     1994 Ward Cunningham, programmatore statunitense, sviluppa un software che realizza un sito web modificabile dai suoi utenti, uno spazio virtuale che consente un continuo e rapido scambio di idee e informazioni.
+
+
     **Lo chiama Wiki**: *wikiwiki* è una delle prime parole che aveva imparato al suo arrivo all’aeroporto di Honolulu. In hawaiano significa "molto veloce" e le sue pagine web sono velocemente consultabili e modificabili da tutti.
 
 
@@ -98,7 +100,7 @@
 
 
     E così, grazie a decine o centinaia di migliaia di esempi, memorizzati ed elaborati, un computer è in grado di “guardare” un’immagine e “distinguere” se al suo interno c’è un cane o un gatto o...la tua faccia “taggata” in una qualche foto sui social!
-    Anche se, a volte, fa confusione tra un chihuahua e un muffin al mirtillo (come dargli torto) ![](assets/images/contest/Alexnet_1.jpg)
+    Anche se, a volte, fa confusione tra un chihuahua e un muffin al mirtillo (come dargli torto) ![](assets/images/contest/Alexnet_1.jpg =200x200)
 
 
     Ma dove si trovano queste grandi quantità di “esempi” da utilizzare per addestrare una rete neurale?
