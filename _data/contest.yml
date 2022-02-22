@@ -29,12 +29,13 @@
 
     **Lo chiama Wiki**: *wikiwiki* è una delle prime parole che aveva imparato al suo arrivo all’aeroporto di Honolulu. In hawaiano significa "molto veloce" e le sue pagine web sono velocemente consultabili e modificabili da tutti.
 
+
     <img src='assets/images/contest/Wiki_3.jpg' height="25%" width="25%" align="right"/>
     Grazie al software di Cunningham si compie una rivoluzione: i wiki conquistano sempre più consensi come luogo di condivisione della conoscenza e aprono le porte a Wikipedia.
     Un salto epico: dall’ **Encyclopédie** (*enkýklios paidéia* "educazione ciclica") di Diderot e d'Alembert del 1751, il primo ponderoso compendio, complessivo e sistematico delle conoscenze di un'intera cultura...a **Wikipedia** (*Wiki paidéia* “educazione veloce”) del 2001, l'enciclopedia online a contenuto libero, collaborativa, multilingue e gratuita che stravolge il paradigma positivista della trasmissione della conoscenza con un’élite culturale a capo del sapere.
 
 
-    <img src='assets/images/contest/Wiki_2.jpg' height="15%" width="15%" align="right"/>
+    <img src='assets/images/contest/Wiki_2.jpg' height="20%" width="20%" align="right"/>
     Con wiki, l’informazione non solo è accessibile, pressoché immediatamente, a tutti ma può essere prodotta da tutti (ovviamente dopo aver subito controlli di attendibilità).
     Oggi la Wikipedia inglese conta 6449799 articoli totali, 588 nuovi articoli al giorno e più di 400 milioni di visitatori i al mese.
 
@@ -126,13 +127,14 @@
 
     - Tiny Images Dataset è un archivio di quasi 80 milioni di immagini a cura della New York University e del MIT di Boston.
 
+
     <img src='assets/images/contest/Alexnet_2.jpg' height="35%" width="35%" align="right"/>
     Questi sistemi oggi permettono di costruire macchine che si guidano da sole e robot che si muovono agevolmente nello spazio.
     Nelle industrie consentono l’ispezione veloce e precisa di difetti nei prodotti e sono perfino in grado di esaminare una tac, una radiografia o una risonanza magnetica, anche se l’ultima parola ce l’ha il dottore...per fortuna!
 - name: Taumus e la computer music
   image: assets/images/contest/Taumus_1.jpg, assets/images/contest/Taumus_2.jpg
   desc: >-
-    <img src='assets/images/contest/Taumus_1.jpg' height="30%" width="30%" align="left"/>
+    <img src='assets/images/contest/Taumus_1.jpg' height="50%" width="50%" align="left"/>
     Chi conosce Paganini e i suoi strabilianti e impossibili capricci per violino solo, potrebbe stupirsi di sapere che uno dei più difficili e impegnativi, il capriccio numero 5, quello che ha fatto intorcinare le dita a Jason Becker virtuoso della chitarra elettrica, è stato “suonato alla perfezione”, nel lontano 1967, da un gigantesco computer a schede perforate presso la Olivetti General Electric a Pregnana Milanese.
 
 
@@ -175,7 +177,8 @@
 
     Nessuna è considerata trascurabile, anche l’errore di ortografia che commettiamo digitando le parole chiave per una ricerca su Google, un dato apparentemente innocuo, “residuo”, è un dato che può essere recuperato.
 
-    <img src='assets/images/contest/Clustering_2.jpg' height="50%" width="50%" align="left"/>
+
+    <img src='assets/images/contest/Clustering_2.jpg' height="40%" width="40%" align="left"/>
     Con le informazioni che ci riguardano, un computer reso “intelligente” da codici di clustering, comincerà a studiare i dati, a fare l’analisi dei gruppi basandosi su misure di somiglianza o dissimilarità, a raggruppare elementi omogenei rispetto ad un insieme di dati fissato e alla fine inserirà il vostro profilo nel gruppo opportuno. E a questo punto qualcuno potrà inviarvi consigli mirati su cosa ascoltare, guardare o...acquistare.
     Non navighiamo gratis, si tratta in realtà di uno scambio: internet ci fornisce informazioni e connettività e noi ripaghiamo lasciando nostre informazioni. I social e le piattaforme di streaming ci ascoltano? Non proprio, non ne hanno bisogno, gli bastano i “dati”, potenti computer e linee di codice ben fatte.
 
@@ -185,14 +188,14 @@
 - name: Eliza Chatbot
   image: assets/images/contest/Eliza_1.jpg, assets/images/contest/Eliza_2.jpg
   desc: >-
-    <img src='assets/images/contest/Eliza_1.jpg' height="20%" width="20%" align="left"/>
+    <img src='assets/images/contest/Eliza_2.jpg' height="10%" width="10%" align="left"/>
     Oggi parlare con Alexa, Siri o Google home è normale; non ci stupiamo di certo che una voce digitale risponda alle nostre domande.
 
 
     **Ma quando è nata la comunicazione tra uomo e macchina?** Nasce negli anni Sessanta, quando con i primi chatbot, codici progettati per far “chiacchierare” la macchina con l’uomo attraverso un’interfaccia grafica che permetteva di inviare e ricevere messaggi, dando il via ad una vera e propria chat.
 
 
-    <img src='assets/images/contest/Eliza_2.jpg' height="50%" width="50%" align="left"/>
+    <img src='assets/images/contest/Eliza_1.jpg' height="50%" width="50%" align="left"/>
     Il primo esempio di chatbot (fusione tra chat e robot) è Eliza, un software sviluppato nel 1966 da Joseph Weizenbaum che aveva come scopo quello di creare l'illusione (seppur breve) di un dialogo uomo-uomo.
     Weizenbaum pensò a una conversazione di un paziente col suo terapeuta, il computer appunto, il quale risponde utilizzando le parole del paziente stesso.
     Eliza analizza le parole che l'utente immette nel programma e le utilizza inserendole in frasi preconfezionate; l'illusione di un interlocutore umano talvolta risulta talmente convincente che ci sono aneddoti su persone così convinte di comunicare con un essere umano, da insistere per parecchi minuti!
