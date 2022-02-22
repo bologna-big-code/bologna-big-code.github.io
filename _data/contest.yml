@@ -1,6 +1,7 @@
 - name: <i class="bi bi-mailbox"></i> Origini della Posta Elettronica
   image: assets/images/contest/Email_1.jpg, assets/images/contest/Email_2.jpg
   desc: >-
+    <img src='assets/images/contest/Email_1.jpg' height="50%" width="50%" align="right"/>
     **Un’idea semplice quanto geniale** e poche linee di codice hanno rivoluzionato, a partire dalla metà degli anni '70, il nostro modo di comunicare: *nasce l’e-mail*.
 
     - 1961, al MIT di Boston, un gruppo di ricercatori hanno l’idea di usare il computer, a cui tutti loro hanno accesso, per comunicare velocemente e chattare online, una cosa scontata per noi ma in quegli anni era quasi fantascienza: nasce il primo prototipo di messaggio elettronico.
@@ -15,7 +16,7 @@
     Grazie alla rete e a poche linee di codice è avvenuto un cambiamento epocale: dalla lettera pensata e poi scritta in bella calligrafia sulla carta, con macchie di inchiostro e correzioni in bella evidenza e lunghi tempi di consegna, all’email, digitata sulla tastiera in modo veloce, asettico, senza memoria di errori e consegnata in pochi secondi a una o più persone simultaneamente, allegando praticamente tutto quanto desideriamo.
     Riusciamo a immaginare quante mail ci scambiamo oggi in un giorno? Più di 300 miliardi.
 
-
+    <img src='assets/images/contest/Email_2.jpg' height="50%" width="50%" align="left"/>
     **Riflessione:**
     *Potrà mai accadere che una e-mail venga un giorno battuta all’asta per quasi tre milioni di dollari com’è stato per la "lettera su Dio" scritta nel 1954 da Albert Einstein?*
 - name: Dall'Enciclopedia a Wikipedia
@@ -101,9 +102,11 @@
 
     E così, grazie a decine o centinaia di migliaia di esempi, memorizzati ed elaborati, un computer è in grado di “guardare” un’immagine e “distinguere” se al suo interno c’è un cane o un gatto o...la tua faccia “taggata” in una qualche foto sui social!
     Anche se, a volte, fa confusione tra un chihuahua e un muffin al mirtillo (come dargli torto).
+
+
     <img src='assets/images/contest/Alexnet_1.jpg' height="50%" width="50%" align="left"/>
 
-    
+
     Ma dove si trovano queste grandi quantità di “esempi” da utilizzare per addestrare una rete neurale?
     Sono state costruite a questo scopo vere e proprie “banche di immagini”; ecco alcuni esempi:
 
