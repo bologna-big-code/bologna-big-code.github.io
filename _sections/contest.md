@@ -1,5 +1,5 @@
 ---
-title: Contest
+title: Partecipa al nostro Contest
 order: 5
 include: sections/default.html
 bg: bg-white
