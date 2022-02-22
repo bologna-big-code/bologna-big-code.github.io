@@ -1,5 +1,5 @@
 ---
-title: Participate to our contest
+title: Partecipa al nostro contest
 order: 5
 include: sections/default.html
 bg: bg-white
@@ -12,7 +12,7 @@ bg: bg-white
 
 <div class="text-center">
     <p>
-    Description of the contest TBD.
+    Leggi le descrizioni di alcuni dei codici più importanti della storia e scegli quale è il tuo preferito, quale vorresti salvaguardare per i posteri. Spiega la tua motivazione nel form che trovi alla fine della pagina: il commento più curioso e brillante verrà premiato il giorno dell'evento! 
     </p>
     <a data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample"><i class="bi bi-chevron-double-down"></i></a>
 </div>

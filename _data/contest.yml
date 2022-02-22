@@ -1,4 +1,4 @@
-- name: <i class="bi bi-mailbox"></i> Origini della Posta Elettronica
+- name: <i class="bi bi-mailbox"></i> Le origini della Posta Elettronica
   image: assets/images/contest/Email_1.jpg, assets/images/contest/Email_2.jpg
   desc: >-
     <img src='assets/images/contest/Email_1.jpg' height="30%" width="30%" align="right"/>
@@ -131,7 +131,7 @@
     <img src='assets/images/contest/Alexnet_2.jpg' height="35%" width="35%" align="right"/>
     Questi sistemi oggi permettono di costruire macchine che si guidano da sole e robot che si muovono agevolmente nello spazio.
     Nelle industrie consentono l’ispezione veloce e precisa di difetti nei prodotti e sono perfino in grado di esaminare una tac, una radiografia o una risonanza magnetica, anche se l’ultima parola ce l’ha il dottore...per fortuna!
-- name: Taumus e la computer music
+- name: Taumus e la Computer Music
   image: assets/images/contest/Taumus_1.jpg, assets/images/contest/Taumus_2.jpg
   desc: >-
     <img src='assets/images/contest/Taumus_1.jpg' height="50%" width="50%" align="left"/>
@@ -161,7 +161,7 @@
 
     **Riflessione:**
     *per tornare al capriccio di Paganini, quell’impossibile numero 5, di certo il GE-115 della General Electrics ha fatto del suo meglio. Ma dopo averlo ascoltato su YouTube, siamo certi che continueremo a preferire l’esecuzione di Leonidas Kavakos o di Salvatore Accardo.*
-- name: Clustering NN
+- name: Clustering Neural Networks
   image: assets/images/contest/Clustering_1.jpg, assets/images/contest/Clustering_2.jpg
   desc: >-
     Vi siete mai chiesti perché, dopo una giornata a cercare in rete l’offerta perfetta per acquistare un nuovo pc, nei giorni successivi vi trovate i social intasati da pubblicità proprio di pc?
@@ -188,7 +188,7 @@
 - name: Eliza Chatbot
   image: assets/images/contest/Eliza_1.jpg, assets/images/contest/Eliza_2.jpg
   desc: >-
-    <img src='assets/images/contest/Eliza_2.jpg' height="10%" width="10%" align="left"/>
+    <img src='assets/images/contest/Eliza_2.jpg' height="15%" width="15%" align="left"/>
     Oggi parlare con Alexa, Siri o Google home è normale; non ci stupiamo di certo che una voce digitale risponda alle nostre domande.
 
 
