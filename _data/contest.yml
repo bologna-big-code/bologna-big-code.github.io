@@ -29,12 +29,12 @@
 
     **Lo chiama Wiki**: *wikiwiki* è una delle prime parole che aveva imparato al suo arrivo all’aeroporto di Honolulu. In hawaiano significa "molto veloce" e le sue pagine web sono velocemente consultabili e modificabili da tutti.
 
-    <img src='assets/images/contest/Wiki_3.jpg' height="50%" width="50%" align="right"/>
-    <img src='assets/images/contest/Wiki_2.jpg' height="30%" width="30%" align="right"/>
+    <img src='assets/images/contest/Wiki_3.jpg' height="25%" width="25%" align="right"/>
     Grazie al software di Cunningham si compie una rivoluzione: i wiki conquistano sempre più consensi come luogo di condivisione della conoscenza e aprono le porte a Wikipedia.
     Un salto epico: dall’ **Encyclopédie** (*enkýklios paidéia* "educazione ciclica") di Diderot e d'Alembert del 1751, il primo ponderoso compendio, complessivo e sistematico delle conoscenze di un'intera cultura...a **Wikipedia** (*Wiki paidéia* “educazione veloce”) del 2001, l'enciclopedia online a contenuto libero, collaborativa, multilingue e gratuita che stravolge il paradigma positivista della trasmissione della conoscenza con un’élite culturale a capo del sapere.
 
 
+    <img src='assets/images/contest/Wiki_2.jpg' height="15%" width="15%" align="right"/>
     Con wiki, l’informazione non solo è accessibile, pressoché immediatamente, a tutti ma può essere prodotta da tutti (ovviamente dopo aver subito controlli di attendibilità).
     Oggi la Wikipedia inglese conta 6449799 articoli totali, 588 nuovi articoli al giorno e più di 400 milioni di visitatori i al mese.
 
@@ -45,11 +45,12 @@
 - name: Il like di Facebook
   image: assets/images/contest/Like_1.jpg, assets/images/contest/Like_2.jpg
   desc: >-
-    <img src='assets/images/contest/Like_1.jpg' height="30%" width="30%" align="left"/>
+    <img src='assets/images/contest/Like_3.jpg' height="30%" width="30%" align="left"/>
     Chi di voi non conosce il **like di Facebook** che sta per “mi piace”? Un semplice bottone che ci consente con un click di esprimere immediatamente, senza alcuna fatica, senza spendere troppo del nostro tempo prezioso, il nostro apprezzamento per una foto, un video, una frase, un’opinione, un prodotto...Così gli amici potranno “apprezzarsi”, sostenersi a vicenda con molta più frequenza e facilità.
 
 
     *L’uovo di Colombo*: un’idea quasi banale di un gruppetto di programmatori di Facebook che la realizzano nel 2009 con poche linee di codice, cambiando forse per sempre il nostro modo di rapportarci.
+
 
     <img src='assets/images/contest/Like_2.jpg' height="50%" width="50%" align="right"/>
     Ebbene ha funzionato, forse anche troppo, tanto che nel 2012, a distanza di soli tre anni, il bottone era stato cliccato più di 1 trilione di volte e nel 2016, gli 1,6 miliardi di utenti di Facebook lo cliccavano circa 6 miliardi di volte al giorno sbloccando un diluvio di approvazioni e diventando allo stesso tempo motivo di consenso e di litigio.
@@ -68,6 +69,7 @@
   desc: >-
     Era il 20 luglio del 1969 e 16 milioni di persone erano incollate davanti al televisore che mostrava le sfocate immagini in bianco e nero di un evento di importanza mondiale: **la missione Apollo 11** stava portando per la prima volta l’uomo sulla luna.
 
+
     <img src='assets/images/contest/Apollo11_1.jpg' height="30%" width="30%" align="right"/>
     Forse non tutti sanno che un ruolo chiave in questo traguardo fondamentale era svolto dal software eseguito sul **“Apollo Guidance Computer”** (AGC), il computer di bordo:
     *60000 righe di codice* sviluppato da un grande team del MIT guidato da Margaret Hamilton.
@@ -79,6 +81,7 @@
 
     Pochi minuti prima dell'allunaggio, diversi allarmi con codice 1202 e 1201 indicavano che il computer di guida stava sprecando risorse in compiti minori e che la memoria rischiava di sovraccaricarsi. L’intera missione era in grave pericolo! Ma grazie al codice di bailout, il computer smise di divagare e tornò al compito principale
     Oggi il codice sorgente dell'AGC è conservato nell’archivio Software Heritage che raccoglie, custodisce e rende fruibili tutti i codici disponibili pubblicamente sul pianeta.
+
 
     <img src='assets/images/contest/Apollo11_2.jpg' height="50%" width="50%" align="left"/>
     Non era un caso che a capo del team di programmatori del codice dell’AGC ci fosse una donna. Quando i computer diventarono una realtà, negli anni quaranta del novecento, a scrivere i programmi erano in gran parte donne, per lo più laureate in matematica. Gli uomini sembravano non dare troppa importanza allo sviluppo dei codici: la vera gloria risiedeva nel fabbricare le macchine, il cosiddetto hard-ware.
@@ -108,7 +111,9 @@
     Anche se, a volte, fa confusione tra un chihuahua e un muffin al mirtillo (come dargli torto).
 
 
-    <img src='assets/images/contest/Alexnet_1.jpg' align="left"/>
+
+    <img src='assets/images/contest/Alexnet_1.jpg'/>
+
 
 
     Ma dove si trovano queste grandi quantità di “esempi” da utilizzare per addestrare una rete neurale?
@@ -121,12 +126,13 @@
 
     - Tiny Images Dataset è un archivio di quasi 80 milioni di immagini a cura della New York University e del MIT di Boston.
 
-    <img src='assets/images/contest/Alexnet_2.jpg' height="30%" width="30%" align="left"/>
+    <img src='assets/images/contest/Alexnet_2.jpg' height="35%" width="35%" align="right"/>
     Questi sistemi oggi permettono di costruire macchine che si guidano da sole e robot che si muovono agevolmente nello spazio.
     Nelle industrie consentono l’ispezione veloce e precisa di difetti nei prodotti e sono perfino in grado di esaminare una tac, una radiografia o una risonanza magnetica, anche se l’ultima parola ce l’ha il dottore...per fortuna!
 - name: Taumus e la computer music
   image: assets/images/contest/Taumus_1.jpg, assets/images/contest/Taumus_2.jpg
   desc: >-
+    <img src='assets/images/contest/Taumus_1.jpg' height="30%" width="30%" align="left"/>
     Chi conosce Paganini e i suoi strabilianti e impossibili capricci per violino solo, potrebbe stupirsi di sapere che uno dei più difficili e impegnativi, il capriccio numero 5, quello che ha fatto intorcinare le dita a Jason Becker virtuoso della chitarra elettrica, è stato “suonato alla perfezione”, nel lontano 1967, da un gigantesco computer a schede perforate presso la Olivetti General Electric a Pregnana Milanese.
 
 
@@ -138,6 +144,7 @@
     Insomma un compositore vero, che “ispirandosi” all’esperienza di chi lo ha preceduto, produce “nuova” musica.
 
 
+    <img src='assets/images/contest/Taumus_2.jpg' height="50%" width="50%" align="right"/>
     E per eseguire la musica del computer viene progettato Tau2, un sintetizzatore digitale a 12 voci, lo strumento musicale sul quale TAUMUS esegue le strutture sonore che ha elaborato.
 
 
@@ -158,6 +165,7 @@
     Vi siete mai chiesti perché, dopo una giornata a cercare in rete l’offerta perfetta per acquistare un nuovo pc, nei giorni successivi vi trovate i social intasati da pubblicità proprio di pc?
 
 
+    <img src='assets/images/contest/Clustering_1.jpg' height="30%" width="30%" align="right"/>
     La risposta sta negli **algoritmi di “clustering”** che aggregano, che mettono insieme, cose o persone. Nel vostro caso, un codice vi ha associati ad allo specifico profilo di consumatore interessato ad acquistare un PC. E così Spotify vi consiglia un brano di trap, se a voi piace, o Netflix vi suggerisce un film del genere che preferite.
 
 
@@ -167,7 +175,7 @@
 
     Nessuna è considerata trascurabile, anche l’errore di ortografia che commettiamo digitando le parole chiave per una ricerca su Google, un dato apparentemente innocuo, “residuo”, è un dato che può essere recuperato.
 
-
+    <img src='assets/images/contest/Clustering_2.jpg' height="50%" width="50%" align="left"/>
     Con le informazioni che ci riguardano, un computer reso “intelligente” da codici di clustering, comincerà a studiare i dati, a fare l’analisi dei gruppi basandosi su misure di somiglianza o dissimilarità, a raggruppare elementi omogenei rispetto ad un insieme di dati fissato e alla fine inserirà il vostro profilo nel gruppo opportuno. E a questo punto qualcuno potrà inviarvi consigli mirati su cosa ascoltare, guardare o...acquistare.
     Non navighiamo gratis, si tratta in realtà di uno scambio: internet ci fornisce informazioni e connettività e noi ripaghiamo lasciando nostre informazioni. I social e le piattaforme di streaming ci ascoltano? Non proprio, non ne hanno bisogno, gli bastano i “dati”, potenti computer e linee di codice ben fatte.
 
@@ -177,12 +185,14 @@
 - name: Eliza Chatbot
   image: assets/images/contest/Eliza_1.jpg, assets/images/contest/Eliza_2.jpg
   desc: >-
+    <img src='assets/images/contest/Eliza_1.jpg' height="20%" width="20%" align="left"/>
     Oggi parlare con Alexa, Siri o Google home è normale; non ci stupiamo di certo che una voce digitale risponda alle nostre domande.
 
 
     **Ma quando è nata la comunicazione tra uomo e macchina?** Nasce negli anni Sessanta, quando con i primi chatbot, codici progettati per far “chiacchierare” la macchina con l’uomo attraverso un’interfaccia grafica che permetteva di inviare e ricevere messaggi, dando il via ad una vera e propria chat.
 
 
+    <img src='assets/images/contest/Eliza_2.jpg' height="50%" width="50%" align="left"/>
     Il primo esempio di chatbot (fusione tra chat e robot) è Eliza, un software sviluppato nel 1966 da Joseph Weizenbaum che aveva come scopo quello di creare l'illusione (seppur breve) di un dialogo uomo-uomo.
     Weizenbaum pensò a una conversazione di un paziente col suo terapeuta, il computer appunto, il quale risponde utilizzando le parole del paziente stesso.
     Eliza analizza le parole che l'utente immette nel programma e le utilizza inserendole in frasi preconfezionate; l'illusione di un interlocutore umano talvolta risulta talmente convincente che ci sono aneddoti su persone così convinte di comunicare con un essere umano, da insistere per parecchi minuti!
