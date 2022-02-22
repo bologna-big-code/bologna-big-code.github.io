@@ -1,5 +1,5 @@
 ---
-title: Agenda
+title: Bologna Big Code Lab Agenda
 order: 3
 include: sections/default.html
 bg: bg-white 

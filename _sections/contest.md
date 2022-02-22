@@ -18,20 +18,19 @@ bg: bg-white
 </div>
 
 <div class="pt-3 row collapse" id="collapseExample">
-    <div class="col-8">
-        <div class="tab-content" id="nav-tabContent2">
-            {% for i in list %}
-            <div class="tab-pane fade show {% if forloop.index==1 %}active{% endif %}" id="{{ i.name | slugify }}" role="tabpanel" aria-labelledby="{{ i.name | slugify }}-list">
-            <!-- <img src="{{ i.image }}" width="128px" class="rounded float-end"> -->
-            {{ i.desc | markdownify }}
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-    <div class="col-4">
+    <div class="col-md-4 mb-5">
         <div class="list-group" id="list-tab" role="tablist">
             {% for i in list %}
             <a class="list-group-item list-group-item-action {% if forloop.index==1 %}active{% endif %}" id="{{ i.name | slugify }}-list" data-bs-toggle="list" href="#{{ i.name | slugify }}" role="tab" aria-controls="home">{{ i.name }}</a>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div class="tab-content" id="nav-tabContent2">
+            {% for i in list %}
+            <div class="tab-pane fade show {% if forloop.index==1 %}active{% endif %}" id="{{ i.name | slugify }}" role="tabpanel" aria-labelledby="{{ i.name | slugify }}-list">
+            {{ i.desc | markdownify }}
+            </div>
             {% endfor %}
         </div>
     </div>
