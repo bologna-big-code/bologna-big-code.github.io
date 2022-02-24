@@ -1,5 +1,5 @@
 ---
-title: 
+title: Promoted by
 order: 2
 include: sections/default.html
 bg: bg-light
