@@ -18,7 +18,7 @@ bg: bg-light
     <div class="form-group">
         <label class="py-2" for="contest"><b>Contest</b></label>
         <select class="form-select" aria-label="Default select example">
-            <option selected>Se partecipi al nostro contest, apri questa sezione</option>
+            <option selected>Scegli qui il codice che vuoi selezionare</option>
             {% for i in site.data.contest %}
             <option value="{{ i.name | slugify }}">{{ i.name }}</option>
             {% endfor %}
@@ -26,7 +26,7 @@ bg: bg-light
     </div>
     <div class="form-group">
         <label class="py-2" for="message"><b>Message</b></label>
-        <textarea class="form-control" name="message" id="message" placeholder="Write your message here" rows="7" required></textarea>
+        <textarea class="form-control" name="message" id="message" placeholder="Scrivi qui il tuo commento" rows="7" required></textarea>
     </div>
     <p class="small">By submitting the form contained in this page, you consent to let the organisation collect and store the provided data. 
     You can revoke the consent at any given time and claim the correction or deletion of your personal data.</p>
