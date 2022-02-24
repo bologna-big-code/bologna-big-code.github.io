@@ -1,26 +1,30 @@
 - name: Liesbeth De Mol
   image: assets/images/relators/ldemol.jpeg
   desc: >-
-    **What is a computer program? An anti-disciplinary approach**
-
-
     [Liesbeth De Mol](https://pro.univ-lille.fr/liesbeth-de-mol/), CNRS Lille
 
 
+    **What is a computer program? An anti-disciplinary approach**
+
+
     *Abstract*
+
+
     What is a computer program? This seemingly simple question, which lies at the heart of computer science, has no simple answer today, neither in academia nor in industry. The responses one gives to it affect very real problems which concern not just the so-called (everyday) User but anyone (scientists, programmers, children, politicians, managers, artists, mathematicians, etc) who relies on computing for some reason. In this talk, I will develop that question by moving across a number of historical and philosophical insights, arguing for the need of what is called an anti-disciplinary approach.
     The argument will be substantiated with several historical cases to show how some of the most basic assumptions we tend to make, are in need of a revision. This then enables a reflection on problems of software heritage, its pitfalls and its possibilities.
 
 - name: Roberto Di Cosmo
   image: assets/images/relators/rdicosmo.jpg
   desc: >-
+    [Roberto Di Cosmo](https://www.dicosmo.org)
+
+
     **Archiviare tutto il software: perché è necessario, e come possiamo farlo**
 
 
-    [Roberto Di Cosmo](https://www.dicosmo.org),
-
-
     *Abstract*
+
+
     Il patrimonio culturale è l'eredità di artefatti fisici e attributi intangibili di un gruppo o società che sono ereditati dalle generazioni passate, mantenuti nel presente e donati a beneficio delle generazioni future. Che ruolo ha il software in tutto ciò?
 
 
@@ -33,11 +37,15 @@
 - name: Simone Martini
   image: assets/images/relators/smartini.jpg
   desc: >-
-    **Perché scrivere codice è importante, per tutti**
-
     [Simone Martini](https://www.unibo.it/sitoweb/simone.martini), Università di Bologna
 
+
+    **Perché scrivere codice è importante, per tutti**
+
+
     *Abstract*
+
+
     Per essere pienamente cittadini della società digitale abbiamo bisogno di strumenti concettuali, per comprenderla in modo critico e sapervi agire. È quello che molti chiamano “pensiero computazionale”. Per acquisirlo, come per acquisire ogni pensiero scientifico o culturale, non si può fare a meno di apprendere anche alcune tecniche. Scrivere codice, cioè scrivere (semplici) programmi, è uno dei modi con cui possiamo far maturare in noi questo pensiero computazionale. Ma, per essere efficace, l'attività di programmazione non può essere un esercizio scolastico: deve coinvolgerci in modo affettivo e sociale.
 
 - name: Stefano Vitali
@@ -45,4 +53,8 @@
   desc: >-
     **Cultural Heritage - dagli oggetti materiali alla immaterialità e al software: come cambia l’idea di archivio**
 
+
     [Stefano Vitali](https://media.beniculturali.it/mibac/files/boards/388a5474724a15af0ace7a40ab3301de/file_pdf/CV/CV_Stefano_Vitali_luglio_2020.pdf)
+
+
+    *Abstract*
