@@ -1,5 +1,5 @@
 ---
-title: Relators
+title: Relatori
 order: 4
 include: sections/default.html
 bg: bg-light 

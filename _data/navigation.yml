@@ -2,11 +2,11 @@
 
 - text: About
   url: /#about
-- text: Agenda
-  url: /#agenda
-- text: Relators
-  url: /#relators
+- text: Programma
+  url: /#programma
+- text: Relatori
+  url: /#relatori
 - text: Contest
   url: /#partecipa-al-nostro-contest
-- text: Contact
-  url: /#contact
+- text: Contatti
+  url: /#contatti

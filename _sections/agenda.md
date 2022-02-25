@@ -1,5 +1,5 @@
 ---
-title: Agenda
+title: Programma
 order: 3
 include: sections/default.html
 bg: bg-white 

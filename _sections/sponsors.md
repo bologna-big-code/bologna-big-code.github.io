@@ -1,5 +1,5 @@
 ---
-title: Organizers
+title: Promotori
 order: 2
 include: sections/default.html
 bg: bg-light

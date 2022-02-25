@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contatti
 order: 6
 include: sections/default.html
 bg: bg-light
@@ -25,8 +25,8 @@ bg: bg-light
         </select>
     </div>
     <div class="form-group">
-        <label class="py-2" for="message"><b>Message</b></label>
-        <textarea class="form-control" name="message" id="message" placeholder="Scrivi qui il tuo commento" rows="7" required></textarea>
+        <label class="py-2" for="message"><b>Messaggio</b></label>
+        <textarea class="form-control" name="message" id="message" placeholder="Scrivi qui la tua motivazione o un tuo commento" rows="7" required></textarea>
     </div>
     <p class="small">By submitting the form contained in this page, you consent to let the organisation collect and store the provided data. 
     You can revoke the consent at any given time and claim the correction or deletion of your personal data.</p>
