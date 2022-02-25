@@ -5,7 +5,7 @@ include: sections/default.html
 bg: bg-white 
 
 ---
-Il 16 Marzo 2022 nell'[Aula Giorgio Prodi](https://disci.unibo.it/it/dipartimento/sedi-e-spazi/aule/aule-sedi-bologna/aula-giorgio-prodi) a Bologna si terrà l'evento **Software Heritage, l'Archivio Universale dei Codici - Divagazioni sul tema** una giornata dedicata ai codici, all’Open Source e ai nuovi archivi digitali. 
+Il 16 Marzo 2022 nell'[Aula Giorgio Prodi](https://disci.unibo.it/it/dipartimento/sedi-e-spazi/aule/aule-sedi-bologna/aula-giorgio-prodi) a Bologna (ed in diretta streaming) si terrà l'evento **Software Heritage, l'Archivio Universale dei Codici - Divagazioni sul tema** una giornata dedicata ai codici, all’Open Source e ai nuovi archivi digitali. 
 
 L’evento ha un taglio multidisciplinare e un duplice obiettivo, formativo e divulgativo e si inserisce all'interno del progetto **Big Code Lab**, promosso dall'[Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile](https://www.enea.it/) (ENEA) e il [Dipartimento di Informatica Scienza ed Ingegneria dell’Università di Bologna](https://disi.unibo.it/it) (DISI), in collaborazione con [Software Heritage](https://www.softwareheritage.org/) (SH) e con il sostegno dell'[International Foundation Big Data and Artificial Intelligence for Human Development](https://www.ifabfoundation.org/) (iFAB).
 Tale progetto si propone da un lato di *esplorare nuovi metodi per lo sviluppo automatico e sicuro dei codici*, e dall’altro di creare occasioni di formazione e divulgazione per riflettere su temi fondamentali legati allo *sviluppo delle nuove tecnologie digitali che stanno rapidamente trasformando la nostra società*.  
