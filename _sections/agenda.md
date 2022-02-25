@@ -11,13 +11,13 @@ bg: bg-white
     <thead>
         <tr>
             <th scope="row" class="small"></th>
-            <th scope="col">Wednesday, 16th March 2022</th>
+            <th scope="col">Mercoledì 16 Marzo 2022</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <th scope="row" class="small">15:00</th>
-            <td>Opening: greetings from institutions</td>
+            <td>Apertura dell'evento</td>
         </tr>
         <tr>
             <th scope="row" class="small">15:15</th>
@@ -29,11 +29,11 @@ bg: bg-white
         </tr>
         <tr>
             <th scope="row" class="small">16:45</th>
-            <td>Break</td>
+            <td>Pausa</td>
         </tr>
         <tr>
             <th scope="row" class="small">17:15</th>
-            <td>Welcome back</td>
+            <td>Bentornati</td>
         </tr>
         <tr>
             <th scope="row" class="small">17:30</th>
@@ -45,7 +45,7 @@ bg: bg-white
         </tr>
         <tr>
             <th scope="row" class="small">19:00</th>
-            <td>Closing with survey results and award ceremony</td>
+            <td>Chiusura dell'evento con risultati del contest e premiazione</td>
         </tr>
     </tbody>
 </table>
