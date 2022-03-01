@@ -29,8 +29,7 @@
         ga('send', 'pageview');
     </script>
 
-    <title>{% if page.section == "home" %}{{ site.title }}{% else %}{{ page.title | default: site.title }}{% endif %}
-    </title>
+    <title>{{ site.title }}</title>
 </head>
 
 <body style="font-size: 1.3rem;">
@@ -55,10 +54,10 @@
                 <div class="carousel-inner">
                     {% for item in site.data.slider %}
                     <div class="carousel-item {% if item.url contains 6 %}active{% endif %}">
-                        <img class="rounded mx-auto d-block img-fluid" src="{{ item.url }}" style="max-height: 450px;">
+                        <img class="rounded mx-auto d-block img-fluid" src="{{ item.url }}" style="max-height: 550px; min-height: 380px;">
 
                         <div class="carousel-caption rounded font-weight-light text-left" style="width: auto; background-color: #BC5753; opacity: 94%;">
-                            {{ item.text }}
+                            {{ item.text | markdownify }}
                         </div>
                     </div>
                     {% endfor %}
