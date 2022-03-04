@@ -41,7 +41,7 @@ bg: bg-white
         </tr>
         <tr>
             <th scope="row" class="small">18:15</th>
-            <td>Cultural Heritage - dagli oggetti materiali alla immaterialità e al software: come cambia l’idea di archivio <br /> <span class="badge rounded-pill bg-primary">Roberto Di Cosmo</span> <span class="badge rounded-pill bg-warning">Stefano Vitali</span></td>
+            <td>Gli archivi del mondo digitale: sfide e opportunità <br /> <span class="badge rounded-pill bg-primary">Roberto Di Cosmo</span> <span class="badge rounded-pill bg-warning">Stefano Vitali</span></td>
         </tr>
         <tr>
             <th scope="row" class="small">19:00</th>
