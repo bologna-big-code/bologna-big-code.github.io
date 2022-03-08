@@ -23,9 +23,9 @@ Compila il form sottostante per partecipare all'evento indicando nome, cognome, 
         <label class="py-2" for="contest"><b>Sessione</b></label>
         <select class="form-select" aria-label="Default select example">
             <option selected>Seleziona qui la sessione/sessioni</option>
-            <option value="">Prima sessione pomeridiana (De Mol, Di Cosmo)</option>
-            <option value="">Seconda sessione pomeridiana (Martini, Di Cosmo/Vitali)</option>
-            <option value="">Prima + Seconda sessione pomeridiana</option>
+            <option value="prima-sessione">Prima sessione pomeridiana (De Mol, Di Cosmo)</option>
+            <option value="seconda-sessione">Seconda sessione pomeridiana (Martini, Di Cosmo/Vitali)</option>
+            <option value="prima-e-seconda-sessione">Prima + Seconda sessione pomeridiana</option>
         </select>
     </div>
     <button type="submit" name="submit" class="btn btn-secondary w-100 mt-2 pb-2">Invia la tua partecipazione</button>
