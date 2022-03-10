@@ -46,7 +46,7 @@ bg: bg-light
         </div>
         <div class="form-group">
             <label class="py-2" for="contest"><b>Contest</b></label>
-            <select class="form-select" aria-label="Default select example">
+            <select name="code[]" class="form-select" aria-label="Default select example" multiple>
                 <option selected>Scegli qui il codice che vuoi selezionare</option>
                 {% for i in site.data.contest %}
                 <option value="{{ i.name | slugify }}">{{ i.name }}</option>
