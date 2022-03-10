@@ -6,9 +6,8 @@ bg: bg-white
 
 ---
 
-L'evento si terrà fisicamente presso l'aula Giorgio Prodi, Piazza San Giovanni in Monte 2, Bologna. 
-L'aula ha una capienza massima di 120 posti a sedere e la partecipazione fisica prevede la prenotazione.
-Compila il form sottostante per partecipare all'evento indicando nome, cognome, una contatto email e la sessione/sessioni a cui desidera partecipare.
+L'evento si terrà in presenza presso l'aula Giorgio Prodi, Piazza San Giovanni in Monte 2, Bologna. 
+L'aula ha una capienza massima di 120 posti a sedere. Per partecipare, prenota il tuo posto registrandoti compilando il form.
 
 <form id="attending-form" name="attending" method="POST" data-netlify="true">
     <div class="form-group">

@@ -57,7 +57,7 @@
 
     <img src='assets/images/contest/Like_2.jpg' height="50%" width="50%"   class="me-3 float-end rounded border border-3"  />
     Ebbene ha funzionato, forse anche troppo, tanto che nel 2012, a distanza di soli tre anni, il bottone era stato cliccato più di 1 trilione di volte e nel 2016, gli 1,6 miliardi di utenti di Facebook lo cliccavano circa 6 miliardi di volte al giorno sbloccando un diluvio di approvazioni e diventando allo stesso tempo motivo di consenso e di litigio.
-    Poche linee di codice per realizzare un semplice contatore, un “+1” ogniqualvolta quel pollice in su è cliccato, ed eccoci lì a “refreshare” con ansia la pagina dove abbiamo pubblichiamo l’ultima foto, aspettando che i like aumentino.
+    Poche linee di codice per realizzare un semplice contatore, un “+1” ogniqualvolta quel pollice in su è cliccato, ed eccoci lì a “refreshare” con ansia la pagina dove abbiamo pubblicato l’ultima foto, aspettando che i like aumentino.
     La tensione cresce e noi modifichiamo i nostri comportamenti online provando a essere più divertenti, più caustici, più glamour, più estremi...per piacere di più.
 
 
@@ -96,7 +96,7 @@
 - name: Riconoscimento automatico d'immagini
   image: assets/images/contest/Alexnet_1.jpg, assets/images/contest/Alexnet_2.jpg
   desc: >-
-    Avete mai notato che viaggiando a bordo di un Frecciarossa non riuscite a leggere il nome delle stazioni? Questo accade perché il nostro cervello visivo è una macchina che ha bisogno di un certo tempo per avere coscienza dell’immagine che si forma sulla nostra retina, un tempo piccolissimo in verità ma necessario se vogliamo avere coscienza che stiamo guardando un albero o un cane o un’astronave.
+    Avete mai notato che viaggiando a bordo di un Frecciarossa non riuscite a leggere il nome delle stazioni? Questo accade perché il nostro cervello visivo è una macchina che ha bisogno di un certo tempo per avere coscienza dell’immagine che si forma sulla nostra retina, un tempo piccolissimo in verità ma necessario per poter dire che stiamo guardando un albero o un cane o un’astronave.
 
 
     Quant’è questo tempo? Sembra che bastino qualche decina di millisecondi: il nostro cervello è davvero molto efficiente!
@@ -133,6 +133,10 @@
     <img src='assets/images/contest/Alexnet_2.jpg' height="35%" width="35%"   class="me-3 float-end rounded border border-3"  />
     Questi sistemi oggi permettono di costruire macchine che si guidano da sole e robot che si muovono agevolmente nello spazio.
     Nelle industrie consentono l’ispezione veloce e precisa di difetti nei prodotti e sono perfino in grado di esaminare una tac, una radiografia o una risonanza magnetica, anche se l’ultima parola ce l’ha il dottore...per fortuna!
+
+    **Riflessione**
+    *Neil Harbisson è un giovane artista che, non riuscendo a distinguere i colori, si è fatto impiantare nel cervello un’antenna con un sensore che cattura i colori e li converte in differenti frequenze audio: insomma Neil ascolta i colori.
+    Considera ormai l'antenna parte del suo corpo, si sente un vero cyborg. Si dice che una volta  sia vissuto per giorni arrampicato su un albero per impedire che lo abbattessero… in realtà forse voleva solo rimanere ad ascoltare  le sfumature di verde delle foglie fruscianti.*
 - name: Taumus e la Computer Music
   image: assets/images/contest/Taumus_1.jpg, assets/images/contest/Taumus_2.jpg
   desc: >-
@@ -170,7 +174,7 @@
 
 
     <img src='assets/images/contest/Clustering_1.jpg' height="30%" width="30%"   class="me-3 float-end rounded border border-3"  />
-    La risposta sta negli **algoritmi di “clustering”** che aggregano, che mettono insieme, cose o persone. Nel vostro caso, un codice vi ha associati ad allo specifico profilo di consumatore interessato ad acquistare un PC. E così Spotify vi consiglia un brano di trap, se a voi piace, o Netflix vi suggerisce un film del genere che preferite.
+    La risposta sta negli **algoritmi di “clustering”** che aggregano, che mettono insieme, cose o persone. Nel vostro caso, un codice vi ha associati allo specifico profilo di consumatore interessato ad acquistare un PC. E così Spotify vi consiglia un brano di trap, se a voi piace, o Netflix vi suggerisce un film del genere che preferite.
 
 
     Ma come fanno *Google, Netflix o Spotify* a sapere ciò che noi preferiamo?
@@ -194,7 +198,7 @@
     Oggi parlare con Alexa, Siri o Google home è normale; non ci stupiamo di certo che una voce digitale risponda alle nostre domande.
 
 
-    **Ma quando è nata la comunicazione tra uomo e macchina?** Nasce negli anni Sessanta, quando con i primi chatbot, codici progettati per far “chiacchierare” la macchina con l’uomo attraverso un’interfaccia grafica che permetteva di inviare e ricevere messaggi, dando il via ad una vera e propria chat.
+    **Ma quando è nata la comunicazione tra uomo e macchina?** Nasce negli anni Sessanta quando, con i primi chatbot, codici progettati per far “chiacchierare” la macchina con l’uomo attraverso un’interfaccia grafica che permetteva di inviare e ricevere messaggi, dando il via ad una vera e propria chat.
 
 
     <img src='assets/images/contest/Eliza_1.jpg' height="50%" width="50%"   class="me-3 float-start rounded border border-3"  />
