@@ -20,7 +20,7 @@ L'aula ha una capienza massima di 120 posti a sedere. Per partecipare, prenota i
     </div>
     <div class="form-group">
         <label class="py-2" for="contest"><b>Sessione</b></label>
-        <select name="session[]" class="form-select" aria-label="Default select example" multiple>
+        <select name="session[]" class="form-select" aria-label="Default select example">
             <option selected>Seleziona qui la sessione/sessioni</option>
             <option value="prima-sessione">Prima sessione pomeridiana (De Mol, Di Cosmo)</option>
             <option value="seconda-sessione">Seconda sessione pomeridiana (Martini, Di Cosmo/Vitali)</option>
