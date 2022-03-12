@@ -17,7 +17,15 @@ bg: bg-white
     <tbody>
         <tr>
             <th scope="row" class="small">15:00</th>
-            <td>Apertura dell'evento</td>
+            <td>Saluto del Prof Francesco Ubertini, Presidente del CINECA</td>
+        </tr>
+        <tr>
+            <th scope="row" class="small">15:05</th>
+            <td>Saluto della Prof.ssa Rebecca Molari, Prorettrice per la  trasformazione digitale dell’Università di Bologna</td>
+        </tr>
+        <tr>
+            <th scope="row" class="small">15:10</th>
+            <td>Saluto dell'Ing. Giorgio Graditi, direttore del Dipartimento Tecnologie Energetiche e Fonti Rinnovabili dell’ENEA.</td>
         </tr>
         <tr>
             <th scope="row" class="small">15:15</th>
@@ -33,7 +41,7 @@ bg: bg-white
         </tr>
         <tr>
             <th scope="row" class="small">17:15</th>
-            <td>Bentornati</td>
+            <td>Saluto della Proff.ssa Paola Salomoni, Assessore alla scuola, università, ricerca, agenda digitale della regione ER</td>
         </tr>
         <tr>
             <th scope="row" class="small">17:30</th>
