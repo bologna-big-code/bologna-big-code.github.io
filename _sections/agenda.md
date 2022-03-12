@@ -17,7 +17,7 @@ bg: bg-white
     <tbody>
         <tr>
             <th scope="row" class="small">15:00</th>
-            <td>Saluto del Prof Francesco Ubertini, Presidente del CINECA</td>
+            <td>Saluto del Prof. Francesco Ubertini, Presidente del CINECA</td>
         </tr>
         <tr>
             <th scope="row" class="small">15:05</th>
