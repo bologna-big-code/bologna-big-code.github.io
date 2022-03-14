@@ -21,7 +21,7 @@ bg: bg-white
         </tr>
         <tr>
             <th scope="row" class="small">15:05</th>
-            <td>Saluto della Prof.ssa Rebecca Molari, Prorettrice per la  trasformazione digitale dell’Università di Bologna</td>
+            <td>Saluto della Prof.ssa Rebecca Montanari, Prorettrice per la  trasformazione digitale dell’Università di Bologna</td>
         </tr>
         <tr>
             <th scope="row" class="small">15:10</th>
