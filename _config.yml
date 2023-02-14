@@ -1,24 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Website template
+title: Bologna Big Code Lab
 email: stefanopio.zingaro@unibo.it
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a template for SPACES team websites. Change this configuration file accordingly.
+  The first public event realized within the Big Code Lab project in Bologna on March 16th. A day dedicated to codes, Open Source and digital archives. 
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
+
+# Custom site variables
+keywords: Bologna Big Code Lab, Big Code Lab, BoBCL, BCL
+logo: assets/images/logo.png
+favicon: assets/images/favicon.ico
+google-analytics: UA-112361799-6
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
@@ -28,7 +19,7 @@ permalink: /blog/:title
 section: true
 
 # set to 'true' to enable Netlify CMS (/admin) in production builds
-netlifycms: true
+netlifycms: false
 
 # set to 'true' to enable Google Analytics tracking code in production builds
 analytics: true
@@ -37,10 +28,6 @@ analytics: true
 sass:
   style: compressed
   sass_dir: _sass
-
-# Compress HTML (in liquid via layouts/compress.html)
-compress_html:
-  clippings: all
 
 # set some common post defaults
 defaults:
@@ -81,3 +68,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# enable landing page with sections
+collections:
+  - sections

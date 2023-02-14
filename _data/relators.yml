@@ -1,0 +1,71 @@
+- name: Liesbeth De Mol
+  image: assets/images/relators/ldemol.jpeg
+  desc: >-
+    [Liesbeth De Mol](https://pro.univ-lille.fr/liesbeth-de-mol/), CNRS Lille
+
+
+    **What is a computer program? An anti-disciplinary approach**
+
+
+    *Abstract*
+
+
+    What is a computer program? This seemingly simple question, which lies at the heart of computer science, has no simple answer today, neither in academia nor in industry. The responses one gives to it affect very real problems which concern not just the so-called (everyday) User but anyone (scientists, programmers, children, politicians, managers, artists, mathematicians, etc) who relies on computing for some reason. In this talk, I will develop that question by moving across a number of historical and philosophical insights, arguing for the need of what is called an anti-disciplinary approach.
+    The argument will be substantiated with several historical cases to show how some of the most basic assumptions we tend to make, are in need of a revision. This then enables a reflection on problems of software heritage, its pitfalls and its possibilities.
+
+- name: Roberto Di Cosmo
+  image: assets/images/relators/rdicosmo.jpg
+  desc: >-
+    [Roberto Di Cosmo](https://www.dicosmo.org)
+
+
+    **Archiviare tutto il software: perché è necessario, e come possiamo farlo**
+
+
+    *Abstract*
+
+
+    Il patrimonio culturale è l'eredità di artefatti fisici e attributi intangibili di un gruppo o società che sono ereditati dalle generazioni passate, mantenuti nel presente e donati a beneficio delle generazioni future. Che ruolo ha il software in tutto ciò?
+
+
+    Il codice sorgente del software è un importante prodotto della creatività umana, e incarna una parte crescente della nostra conoscenza scientifica, organizzativa e tecnologica: è una parte del nostro patrimonio culturale, ed è nostra responsabilità collettiva assicurarci che non vada perso.
+    Preservare la storia del software è anche un fattore chiave per la riproducibilità della ricerca, e come mezzo per promuovere un software migliore e più sicuro per la società.
+
+
+    Questa è la missione di Software Heritage, un'organizzazione no-profit dedicata alla costruzione dell'archivio universale del codice sorgente del software, che soddisfa i bisogni della scienza, dell'industria e della cultura, a beneficio di tutta la società. In questa presentazione esamineremo i principi e la tecnologia chiave utilizzati nell'archivio che contiene oltre 12 miliardi di file di codice sorgente unici da circa 170 milioni di progetti in tutto il mondo.
+
+- name: Simone Martini
+  image: assets/images/relators/smartini.jpg
+  desc: >-
+    [Simone Martini](https://www.unibo.it/sitoweb/simone.martini), Università di Bologna
+
+
+    **Perché scrivere codice è importante, per tutti**
+
+
+    *Abstract*
+
+
+    Per essere pienamente cittadini della società digitale abbiamo bisogno di strumenti concettuali, per comprenderla in modo critico e sapervi agire. È quello che molti chiamano “pensiero computazionale”. Per acquisirlo, come per acquisire ogni pensiero scientifico o culturale, non si può fare a meno di apprendere anche alcune tecniche. Scrivere codice, cioè scrivere (semplici) programmi, è uno dei modi con cui possiamo far maturare in noi questo pensiero computazionale. Ma, per essere efficace, l'attività di programmazione non può essere un esercizio scolastico: deve coinvolgerci in modo affettivo e sociale.
+
+- name: Stefano Vitali
+  image: assets/images/relators/svitali.jpg
+  desc: >-
+    [Stefano Vitali](https://independent.academia.edu/VitaliStefano)
+
+
+    **Gli archivi del mondo digitale: sfide e opportunità**
+
+
+    *Abstract*
+
+
+    Gli archivi svolgono tradizionalmente una consolidata funzione di conservazione della documentazione prodotta da soggetti pubblici e privati al fine di consentirne la fruizione e l'uso per molteplici, differenti finalità.
+
+    La progressiva digitalizzazione delle attività umane rende la realizzazione  e la gestione  degli archivi ben più complesse, così come ne amplia gli scopi e ne trasforma la natura.
+
+
+
+    In questa conversazione, saranno esplorate e discusse le nuove sfide, ma anche le inedite opportunità offerte dai tradizionali e dai nuovi archivi del mondo digitale.  L'archiviazione del codice sorgente del software, in particolare, svolge un ruolo di notevole importanza non solo per la conservazione del patrimonio di conoscenza  e di tecnologia che esso incorpora, ma anche per il suo
+
+    valore probatorio, la trasparenza dell'azione pubblica, la riproducibilità della scienza e la crescita della cultura informatica.
